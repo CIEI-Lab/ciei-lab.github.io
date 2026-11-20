@@ -6,6 +6,8 @@
   const EN = Object.freeze({
     // Navigation, page titles, landmarks and common actions.
     '科研项目': 'Research projects',
+    '交互与研究工具': 'Interaction and research tools',
+    '领域模型': 'Domain models',
     '显示更多': 'Show more',
     '资料来源': 'Source record',
 

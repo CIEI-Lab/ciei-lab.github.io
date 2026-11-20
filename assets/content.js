@@ -3711,446 +3711,9 @@ window.LAB_CONTENT = {
   ],
   "projects": [
     {
-      "id": "research-04",
-      "group": "research",
-      "category": "科研项目",
-      "title": "AI驱动的工业过程实时业务协同调控技术研究与应用",
-      "scheme": "上海市科学技术委员会2025年度关键技术研发计划“新一代信息技术”项目",
-      "period": "2025.12–2027.11",
-      "role": "技术骨干",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2025.12 - 2027.11 上海市科学技术委员会2025年度关键技术研发计划“新一代信息技术”项目：AI驱动的工业过程实时业务协同调控技术研究与应用，在研，技术骨干",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 156
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-01",
-      "group": "research",
-      "category": "科研项目",
-      "title": "面向智能工厂动态生产的多目标实时优化运行关键技术与系统研究",
-      "scheme": "工业控制技术全国重点实验室自主课题",
-      "period": "2024.09–2026.08",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2024.09 - 2026.08 工业控制技术全国重点实验室自主课题：面向智能工厂动态生产的多目标实时优化运行关键技术与系统研究，在研，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 149
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-05",
-      "group": "research",
-      "category": "科研项目",
-      "title": "基于硅基材料的工业互联网平台开发应用项目",
-      "scheme": "新疆维吾尔自治区揭榜挂帅项目（新特能源股份有限公司）",
-      "period": "2023.05–2025.06",
-      "role": "技术骨干",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2023.05 - 2025.06 新疆维吾尔自治区揭榜挂帅项目（新特能源股份有限公司）：基于硅基材料的工业互联网平台开发应用项目，结题，技术骨干",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 157
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-06",
-      "group": "research",
-      "category": "科研项目",
-      "title": "高纯晶体硅材料重大共性关键技术及应用研究/开展基于工业互联网的绿色智能制造技术在硅基新材料制造中深度融合创新应用研究",
-      "scheme": "新疆自治区重大科技专项",
-      "period": "2022.07–2025.06",
-      "role": "技术骨干",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2022.07 - 2025.06 新疆自治区重大科技专项：高纯晶体硅材料重大共性关键技术及应用研究/开展基于工业互联网的绿色智能制造技术在硅基新材料制造中深度融合创新应用研究，在研，技术骨干",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 158
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-02",
-      "group": "research",
-      "category": "科研项目",
-      "title": "数据驱动的复杂社会网络传播动力学分析与分布式控制研究",
-      "scheme": "国家自然科学基金面上项目",
-      "period": "2022.01–2025.12",
-      "role": "项目负责人",
-      "projectNumber": "62173147",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2022.01 - 2025.12 国家自然科学基金面上项目：数据驱动的复杂社会网络传播动力学分析与分布式控制研究，项目编号：62173147，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 152
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-03",
-      "group": "research",
-      "category": "科研项目",
-      "title": "数据驱动的泛在配电物联网智能认知与协同调控关键问题研究",
-      "scheme": "上海市浦江人才计划（A类）",
-      "period": "2020.11–2022.10",
-      "role": "项目负责人",
-      "projectNumber": "20PJ1403000",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2020.11 - 2022.10 上海市浦江人才计划（A类）：数据驱动的泛在配电物联网智能认知与协同调控关键问题研究，项目编号：20PJ1403000，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 154
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-07",
-      "group": "research",
-      "category": "科研项目",
-      "title": "Control and Optimization for Event-Triggered Networked Autonomous Multi-agent Systems",
-      "scheme": "国家自然科学基金委员会（NSFC）与德国研究联合会（DFG）共同资助的中德合作研究项目",
-      "period": "2018.10–2020.12",
-      "role": "参与人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2018.10 - 2020.12 国家自然科学基金委员会（NSFC）与德国研究联合会（DFG）共同资助的中德合作研究项目：Control and Optimization for Event-Triggered Networked Autonomous Multi-agent Systems，结题，参与人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 159
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-08",
-      "group": "research",
-      "category": "科研项目",
-      "title": "Controlling evolutionary dynamics of networked autonomous agents",
-      "scheme": "欧洲科学研究委员会（ERC）项目",
-      "period": "2018.05–2023.04",
-      "role": "参与人",
-      "projectNumber": "ERC-CoG-771687",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2018.05 - 2023.04 欧洲科学研究委员会（ERC）项目：Controlling evolutionary dynamics of networked autonomous agents，项目批准号：ERC-CoG-771687，结题，参与人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 160
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-09",
-      "group": "research",
-      "category": "科研项目",
-      "title": "Modeling, Optimization and Control of Networks of Heterogeneous Energy Systems with Volatile Renewable Energy Generation (MOReNet)",
-      "scheme": "德国联邦教育和科研部（BMBF）资助的联合项目",
-      "period": "2018.04–2021.03",
-      "role": "参与人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2018.04 - 2021.03 德国联邦教育和科研部（BMBF）资助的联合项目：Modeling, Optimization and Control of Networks of Heterogeneous Energy Systems with Volatile Renewable Energy Generation (MOReNet)，结题，参与人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 161
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-10",
-      "group": "research",
-      "category": "科研项目",
-      "title": "Distributed coordination of self-interested agents",
-      "scheme": "荷兰国家自然科学基金委（NWO）重点项目",
-      "period": "2016.09–2020.08",
-      "role": "参与人",
-      "projectNumber": "NWO-vidi-14134",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2016.09 - 2020.08 荷兰国家自然科学基金委（NWO）重点项目：Distributed coordination of self-interested agents，项目批准号：NWO-vidi-14134，结题，参与人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 162
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "research-11",
-      "group": "research",
-      "category": "科研项目",
-      "title": "Priority Program SPP 1914 “Cyber-Physical Networking”",
-      "scheme": "德国研究联合会（DFG）项目",
-      "period": "2016.09–2019.08",
-      "role": "参与人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2016.09 - 2019.08 德国研究联合会（DFG）项目：Priority Program SPP 1914 “Cyber-Physical Networking”，结题，参与人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 163
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-01",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "面向石化过程智能制造的知识库系统",
-      "scheme": "企业委托项目",
-      "period": "2026.05–2027.03",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2026.05 - 2027.03 企业委托项目：面向石化过程智能制造的知识库系统，在研，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 166
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-02",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "在线实时优化软件的关键技术的研究与开发项目数据预处理技术、非梯度规划求解器模块开发技术协作",
-      "scheme": "企业委托项目",
-      "period": "2025.12–2026.10",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2025.12 - 2026.10 企业委托项目：在线实时优化软件的关键技术的研究与开发项目数据预处理技术、非梯度规划求解器模块开发技术协作，在研，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 167
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-03",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "基于大模型的税务领域关键技术与应用研究",
-      "scheme": "企业委托项目",
-      "period": "2025.08–2026.12",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2025.08 - 2026.12 企业委托项目：基于大模型的税务领域关键技术与应用研究，在研，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 168
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-04",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "省级中小学教师发展中心培训管理系统优化与维保项目",
-      "scheme": "企业委托项目",
-      "period": "2024.08–2025.07",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2024.08 - 2025.07 企业委托项目：省级中小学教师发展中心培训管理系统优化与维保项目，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 169
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-05",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "防汛防台可视化指挥平台服务采购项目",
-      "scheme": "企业委托项目",
-      "period": "2024.01–2027.01",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2024.01 - 2027.01 企业委托项目：防汛防台可视化指挥平台服务采购项目，在研，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 170
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-06",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "防汛防台指挥要素图",
-      "scheme": "企业委托项目",
-      "period": "2024.01–2024.06",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2024.01 - 2024.06 企业委托项目：防汛防台指挥要素图，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 171
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-07",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "重庆高等教育智慧教育平台升级改造项目",
-      "scheme": "企业委托项目",
-      "period": "2023.09–2024.08",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2023.09 - 2024.08 企业委托项目：重庆高等教育智慧教育平台升级改造项目，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 172
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-08",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "“浙江直播”直播平台定制开发项目",
-      "scheme": "企业委托项目",
-      "period": "2022.06–2022.11",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2022.06 - 2022.11 企业委托项目：“浙江直播”直播平台定制开发项目，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 173
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-09",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "江苏省高校在线课程网平台升级改造项目",
-      "scheme": "企业委托项目",
-      "period": "2020.10–2021.09",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2020.10 - 2021.09 企业委托项目：江苏省高校在线课程网平台升级改造项目，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 174
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-10",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "山东大学学校云平台升级技术服务",
-      "scheme": "企业委托项目",
-      "period": "2020.05–2022.04",
-      "role": "项目负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2020.05 - 2022.04 企业委托项目：山东大学学校云平台升级技术服务，结题，项目负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 175
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-11",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "工业装置RTO在线优化国产化平台开发",
-      "scheme": "企业委托项目",
-      "period": "2020.01–2022.12",
-      "role": "技术负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2020.01 - 2022.12 企业委托项目：工业装置RTO在线优化国产化平台开发，结题，技术负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 177
-      },
-      "description": "",
-      "url": ""
-    },
-    {
-      "id": "commissioned-12",
-      "group": "industry",
-      "category": "企业委托",
-      "title": "常减压装置智能模型及优化算法开发",
-      "scheme": "企业委托项目",
-      "period": "2020.01–2022.12",
-      "role": "技术负责人",
-      "projectNumber": "",
-      "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "evidence": {
-        "quote": "2020.01 - 2022.12 企业委托项目：常减压装置智能模型及优化算法开发，结题，技术负责人",
-        "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-        "textFile": "work/faculty-v8/main.visible-clean.txt",
-        "line": 178
-      },
-      "description": "",
-      "url": ""
-    },
-    {
       "id": "open-mindchat",
       "group": "open",
-      "category": "开源项目",
+      "category": "领域模型",
       "title": "MindChat · 心理对话大模型",
       "description": "面向心理支持与情绪交流的开源对话模型。",
       "url": "https://github.com/X-D-Lab/MindChat",
@@ -4162,7 +3725,7 @@ window.LAB_CONTENT = {
     {
       "id": "open-sunsimiao",
       "group": "open",
-      "category": "开源项目",
+      "category": "领域模型",
       "title": "Sunsimiao · 中文医疗大模型",
       "description": "面向中文医学问答与健康知识交流的开源模型。",
       "url": "https://github.com/X-D-Lab/Sunsimiao",
@@ -4174,7 +3737,7 @@ window.LAB_CONTENT = {
     {
       "id": "open-gradchat",
       "group": "open",
-      "category": "开源项目",
+      "category": "领域模型",
       "title": "GradChat · 教育与学习大模型",
       "description": "围绕教育问答、学习辅助与职业规划开展模型研究。",
       "url": "https://github.com/X-D-Lab/GradChat",
@@ -4186,7 +3749,7 @@ window.LAB_CONTENT = {
     {
       "id": "open-xrayqwen",
       "group": "open",
-      "category": "开源项目",
+      "category": "领域模型",
       "title": "XrayQwen · 医学影像多模态模型",
       "description": "面向中文医学影像任务，连接图像与语言理解。",
       "url": "https://github.com/X-D-Lab/XrayQwen",
@@ -4198,7 +3761,7 @@ window.LAB_CONTENT = {
     {
       "id": "open-doctor-sun",
       "group": "open",
-      "category": "开源项目",
+      "category": "领域模型",
       "title": "Doctor Sun · 双语多模态医疗模型",
       "description": "面向中英双语医学图文任务的多模态大模型。",
       "url": "https://github.com/X-D-Lab/Doctor-Sun",
@@ -4210,9 +3773,9 @@ window.LAB_CONTENT = {
     {
       "id": "open-langchain-chatglm-webui",
       "group": "open",
-      "category": "开源项目",
+      "category": "交互与研究工具",
       "title": "LangChain-ChatGLM-Webui · 知识库问答",
-      "description": "本地知识库问答系统与大模型应用工具。",
+      "description": "基于 LangChain 与 ChatGLM 的本地知识库问答工具，提供资料接入与对话界面。",
       "url": "https://github.com/X-D-Lab/LangChain-ChatGLM-Webui",
       "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
       "period": "",
@@ -4222,7 +3785,7 @@ window.LAB_CONTENT = {
     {
       "id": "open-gpt_sovits_inference",
       "group": "open",
-      "category": "开源项目",
+      "category": "交互与研究工具",
       "title": "GPT_SoVITS_Inference · 语音合成工具",
       "description": "基于 GPT-SoVITS 的语音合成推理与部署工具。",
       "url": "https://github.com/X-D-Lab/GPT_SoVITS_Inference",
@@ -4234,7 +3797,7 @@ window.LAB_CONTENT = {
     {
       "id": "open-pua",
       "group": "open",
-      "category": "开源项目",
+      "category": "交互与研究工具",
       "title": "PUA · 心理交互游戏",
       "description": "心理交互游戏与智能体应用体验。",
       "url": "https://github.com/X-D-Lab/PUA",
