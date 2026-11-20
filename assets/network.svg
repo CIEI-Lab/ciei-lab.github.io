@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 640" fill="none">
+<defs><radialGradient id="glow"><stop stop-color="#c5dd9a" stop-opacity=".14"/><stop offset="1" stop-color="#c5dd9a" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#c4d2b5" stroke-opacity=".08"/></pattern></defs>
+<path fill="url(#grid)" d="M0 0h820v640H0z"/><circle cx="445" cy="305" r="300" fill="url(#glow)"/>
+<g stroke="#c5d4b5" stroke-opacity=".19"><ellipse cx="440" cy="320" rx="222" ry="222"/><ellipse cx="440" cy="320" rx="222" ry="88" transform="rotate(-35 440 320)"/><ellipse cx="440" cy="320" rx="222" ry="88" transform="rotate(35 440 320)"/><ellipse cx="440" cy="320" rx="90" ry="222"/><path d="M125 215 307 177 440 320 610 205 729 363 554 482 338 474 198 364 307 177 554 482 610 205 338 474 125 215M198 364 440 320 729 363M307 177 610 205M338 474 440 320 554 482"/></g>
+<g stroke="#cbe79d" stroke-opacity=".6"><path d="m307 177 133 143 170-115M198 364l242-44 114 162"/><circle cx="440" cy="320" r="18"/><circle cx="440" cy="320" r="30" stroke-opacity=".2"/></g>
+<g fill="#cbe79d"><circle cx="440" cy="320" r="6"/><circle cx="307" cy="177" r="5"/><circle cx="610" cy="205" r="5"/><circle cx="554" cy="482" r="5"/><circle cx="198" cy="364" r="5"/></g><g fill="#91a486"><circle cx="125" cy="215" r="3"/><circle cx="729" cy="363" r="3"/><circle cx="338" cy="474" r="3"/></g>
+<g fill="#b9c5b2" font-family="Arial,sans-serif" font-size="12" letter-spacing="2"><text x="270" y="151">RESEARCH</text><text x="596" y="180">APPLICATION</text><text x="509" y="519">COLLABORATION</text></g>
+</svg>
