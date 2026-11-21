@@ -91,13 +91,13 @@
 
 首页四篇分别覆盖社会认知、健康智能、具身协同与智能工程；科研页使用J41/J40/J39三篇2026年近期研究。卷期年份/月不等同首次在线日期。没有可复用研究图的条目使用原创主题封面，封面不伪装成原论文图，也不提供原图放大。
 
-8个公开产品/工具及其资源来自本轮核对的官方教师页与各README：MindChat、Sunsimiao、GradChat、XrayQwen、Doctor Sun、LangChain-ChatGLM-Webui、GPT_SoVITS_Inference、PUA。LangChain工具与语音工具保留上游归属；未主张底层框架均独立原创。GradChat、PUA仅有公开介绍材料，因此代码按钮禁用。FrXXX仅为用户给定暂定名称，未编造能力或访问地址。
+8个公开产品/工具及其资源来自本轮核对的官方教师页与各README：MindChat、Sunsimiao、GradChat、XrayQwen、Doctor Sun、LangChain-ChatGLM-Webui、GPT_SoVITS_Inference、PUA。LangChain工具与语音工具保留上游归属；未主张底层框架均独立原创。GradChat、PUA仅有公开介绍材料，因此代码按钮禁用。空产品占位已按用户要求移除。
 
-产品示意图由本项目以原生SVG制作，按稳定key对应9个独立构图；图示表达产品主题，不是产品运行截图或实验数据。
+产品示意图由本项目以原生SVG制作，按稳定key对应实际产品构图；图示表达产品主题，不是产品运行截图或实验数据。
 
 ### 原文摘要来源与许可
 
-9条原摘要按可复用许可保留原文，作者与文献信息随记录展示；其余34篇只保留原文摘要入口。arXiv摘要使用CC0元数据条款，论文全文/图示许可单独处理；不把一般Crossref摘要自动当作CC0。
+11条原摘要按可复用许可保留原文，作者与文献信息随记录展示；另31篇依据核实后的论文摘要或原稿内容整理中英文概述，其余1篇保留原文入口。arXiv摘要使用CC0元数据条款，论文全文/图示许可单独处理；不把一般Crossref摘要自动当作CC0。
 
 - [Doctor Sun: a bilingual multimodal large language model for biomedical AI](https://peerj.com/articles/cs-3853)；版本：version_of_record；[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
 - [Towards Privacy-Preserving Mental Health Support with Large Language Models](https://arxiv.org/abs/2601.01993v2)；版本：preprint；[CC0 1.0 (arXiv abstract metadata)](https://creativecommons.org/publicdomain/zero/1.0/)。
@@ -119,3 +119,17 @@
 - 首页背景采用4张本项目原创原生SVG（about / research / publications / tools）及已有认知场与实验平台影像；暗化和模糊仅应用于后景。原生背景为主题示意，无伪造数据、标签或实验环境实拍主张。
 - 视觉参考：Juventus 的图像后景和深浅层次；PIS Lab 的主题图形；Mengyue Wu、Ru-Yuan Lab、Westlake Deep Learning Lab 和 Real Life & Real Learning Lab 的简介、研究与论文优先的信息层级。没有复制这些站点的品牌、照片、人物或成果。
 - 近期研究使用稳定的媒体/正文容器与显式网格区域，兼容浏览器外链扩展插入的旁挂元素。本地诊断页可模拟外链后插入按钮；诊断脚本不进入发布目录。
+
+
+## 第十一版：摘要补全与产品清理
+
+删除空产品占位，保留8个实际模型或工具。论文列表尽量补入期刊、arXiv、作者机构库及可核对DOI的论文摘要元数据；未核实到内容的条目不凭题名编写。
+
+原文摘要与概述在页面上分别标注，全文研究概述不冒充原文摘要。完整原文沿用可复用许可并保留版本与来源；arXiv元数据许可不等同PDF正文许可。索引复现的原论文摘要只作为核对与概述来源，不据此认定转载许可。预印本与正式版区分，预印本作者列表存在差异时不覆盖正式发表记录。
+
+新增原文来源：[Flexible mitigation of epidemics by transport management](https://doi.org/10.1016/j.chaos.2025.116211)，CC BY 4.0；[Distributed Link Removal Strategy… arXiv:2006.16221v1](https://arxiv.org/abs/2006.16221v1)，arXiv摘要元数据CC0。所有概述保留各条目的abstractURL及verification.abstractEvidence记录。
+
+
+### 导师新招聘说明
+
+2026-11-21用户提供导师新写的招聘说明，作为招聘页的直接内容来源。整理为两类全职岗位，完整保留年度拟招名额、博士后一般聘期、学位/年龄的一般条件、A/B/卓越类别要求及年薪下限、科研助理拟聘用方式、待遇与学校审核约定、申请材料和邮件主题。新增5项实验室在研课题；导师简介精简整合，未迁入历史单位履历。说明文字中的“心理与认知科学院”按既有正式名称统一为“心理与认知科学学院”。新稿未被表述为已独立核验的学校政策公告。

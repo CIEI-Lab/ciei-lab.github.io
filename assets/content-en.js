@@ -189,11 +189,17 @@ window.LAB_CONTENT_EN = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1007%2Fs11432-024-4290-4",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/formation-llm-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_pdf_local_archive",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
       "abstractURL": "https://scis.scichina.com/en/2025/150205.pdf",
-      "abstractSource": "Original publisher PDF, page 1 (short excerpt)",
+      "abstractSource": "publisher_pdf_local_archive",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -201,9 +207,12 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "Connecting large language models with multi-robot formation, path planning and collaborative control."
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "Connecting large language models with multi-robot formation, path planning and collaborative control.",
+      "abstractSummary": "The study develops an LLM-assisted framework for coordinating robot formations and planning their motion in changing environments. Textual motion constraints, robot information and local environmental observations inform motion objectives that are converted into executable control commands. The framework supports formation creation, maintenance and reconfiguration during navigation, including obstacle avoidance. Simulation studies examine how this integration responds to environmental changes, disturbances and uncertainty, demonstrating improved adaptability and flexibility within the tested scenarios. The reported validation is simulation-based.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -369,11 +378,17 @@ window.LAB_CONTENT_EN = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1109%2FTSMC.2026.3686176",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/opinion-higher-order-2026-provenance-recheck.json",
+          "kind": "summary",
+          "sourceKind": "cross_checked_paper_abstract_mirror",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/tsmc.2026.3686176",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.researchgate.net/publication/404572879_Opinion_Dynamics_on_Higher-Order_Social_Networks_A_Continuous-Time_Perspective",
+      "abstractSource": "cross_checked_paper_abstract_mirror",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -381,9 +396,12 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "Hypergraphs represent the higher-order interactions found in group discussions and online conversations within a continuous-time opinion model. Convergence and stability are examined with and without stubborn individuals, alongside the effects of higher-order interactions and weak ties."
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "Hypergraphs represent the higher-order interactions found in group discussions and online conversations within a continuous-time opinion model. Convergence and stability are examined with and without stubborn individuals, alongside the effects of higher-order interactions and weak ties.",
+      "abstractSummary": "This paper represents group discussions with undirected hypergraphs and models opinion formation as a continuous-time dynamical process. A diffusion-like interaction function accommodates influences involving different numbers of participants. The analysis considers convergence and stability with and without stubborn individuals, then relates higher-order interactions and weak ties to information exchange and opinion polarization. Numerical studies on synthetic and real-world network datasets test the theoretical findings. The overview concerns the modeled dynamics and reported numerical experiments rather than an intervention study on human participants.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -414,11 +432,17 @@ window.LAB_CONTENT_EN = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.chaos.2026.118490",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/product-spread-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2026.118490",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077926006314",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -426,9 +450,12 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "This work studies how individual opinions influence product adoption and diffusion in social networks. Higher-order social influence from group structures and implicit weak ties extend the model beyond pairwise word-of-mouth interactions."
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "This work studies how individual opinions influence product adoption and diffusion in social networks. Higher-order social influence from group structures and implicit weak ties extend the model beyond pairwise word-of-mouth interactions.",
+      "abstractSummary": "The paper couples product adoption and evolving opinions on a two-layer directed hypergraph, incorporating group influence and weak social ties. It analyzes convergence and stability for full adoption, partial adoption and non-adoption, then extends the framework to competition between two products. Simulations on synthetic and real-world hypergraphs show how higher-order interactions change adoption speed, equilibrium levels and product persistence. Competitive diffusion can also become more strongly dominated by the winning product, illustrating effects that pairwise influence models may miss.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -488,11 +515,17 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/opinion-diversity-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2025.116188",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077925002012",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -500,9 +533,12 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "Multiple issues and higher-order network interactions are combined to study how diverse opinions form and coexist. The work examines how stubbornness, social influence, and group interactions shape opinion distributions."
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "Multiple issues and higher-order network interactions are combined to study how diverse opinions form and coexist. The work examines how stubbornness, social influence, and group interactions shape opinion distributions.",
+      "abstractSummary": "The study extends the Friedkin–Johnsen model to higher-order social networks and opinions spanning multiple issues. Group-dependent influences introduce nonlinear dynamics beyond scalar opinions and pairwise connections. The work analyzes whether the resulting model is well defined and how its opinions converge and settle. Theory and numerical experiments indicate that higher-order terms can support a broader range of persistent positions. Individual stubbornness and social influence jointly shape this diversity, providing a framework for studying coexistence rather than assuming universal consensus.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -533,11 +569,17 @@ window.LAB_CONTENT_EN = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.aei.2023.102199",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/publisher-web-evidence.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.aei.2023.102199",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S1474034623003270",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -545,9 +587,12 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "This work studies just-in-time soft sensing for key variables that are difficult to measure accurately in changing chemical processes. An adaptive, multi-branch, multi-scale convolutional architecture supports local modeling as operating conditions change."
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "This work studies just-in-time soft sensing for key variables that are difficult to measure accurately in changing chemical processes. An adaptive, multi-branch, multi-scale convolutional architecture supports local modeling as operating conditions change.",
+      "abstractSummary": "The study addresses unreliable similarity selection and expensive local modelling in just-in-time soft sensors for changing chemical processes. A feature-aware mixed similarity measure supports K-means partitioning of historical observations. An adaptive rule then selects the number of relevant samples within a suitable partition. Local prediction uses an integrated convolutional architecture with multiple branches and variable scales, allowing its structure to accommodate different feature dimensions. Tests on residue-hydrogenation and physical-separation process data indicate better predictions with less elapsed computation than the compared approaches.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -607,11 +652,17 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2020,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/social-power-2020.pdf",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_verified_against_author_repository",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.ins.2020.05.142",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0020025520305673",
+      "abstractSource": "publisher_abstract_verified_against_author_repository",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -619,9 +670,12 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "The work studies opinion and social power dynamics across successive discussions in networks with both positive and antagonistic relationships. A reflected self-appraisal model examines how network structure shapes the long-term distribution of influence."
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "The work studies opinion and social power dynamics across successive discussions in networks with both positive and antagonistic relationships. A reflected self-appraisal model examines how network structure shapes the long-term distribution of influence.",
+      "abstractSummary": "This work allows social influence to include antagonism as well as cooperation. Across repeated discussions, opinion outcomes modify individuals' assessments of their own influence, producing feedback between opinion formation and social power. The authors describe that feedback through interpersonal appraisal and a reflected self-appraisal model, and use graph structure to explain how influence reaches a collective outcome. Differential Lyapunov analysis establishes global exponential convergence for almost all network topologies considered. In the long run, the appraisal relationships determine social power, while the effect of initial self-assessments fades.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -681,21 +735,30 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/distributed-network-control-2019.pdf",
+          "kind": "summary",
+          "sourceKind": "author_repository_manuscript",
+          "version": "preprint"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/tsp.2018.2887211",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://mediatum.ub.tum.de/doc/1470372/00636670505584.pdf",
+      "abstractSource": "author_repository_manuscript",
       "abstractLanguage": "en",
-      "abstractVersion": "version_of_record",
+      "abstractVersion": "preprint",
       "abstractLicense": {
         "name": "Not verified",
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "This work investigates distributed removal and rewiring of network links to limit spreading without a central coordinator. Event-triggered communication, distributed spectral estimation, and collaborative decisions support topology control using local information."
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "This work investigates distributed removal and rewiring of network links to limit spreading without a central coordinator. Event-triggered communication, distributed spectral estimation, and collaborative decisions support topology control using local information.",
+      "abstractSummary": "The paper studies epidemic suppression through edge removal or rewiring when no central controller has complete network information. It relates these decisions to reducing the network's spectral radius, while recognizing the computational difficulty of the associated discrete optimization. An estimator combining event-driven communication with parallel computation lets nodes identify important contacts and coordinate successive topology changes using local information. The framework also considers coevolving networks and discusses solution quality through algebraic and structural arguments. Simulation examples test the resulting strategies without claiming a universal globally optimal solution.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -752,13 +815,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j41-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j41-2026,\n  title = {Node-targeted multi-step percolation on networks},\n  author = {Yutong Li and Zhehua Zhou and Dong Xue and Stefano Boccaletti and Fangzhou Liu},\n  year = {2026},\n  doi = {10.1016/j.chaos.2026.119389},\n  url = {https://doi.org/10.1016/j.chaos.2026.119389}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077926015304",
-      "abstractSource": "Publisher original abstract (short excerpt)",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -767,11 +836,14 @@ window.LAB_CONTENT_EN = {
         "allowsFullReuse": false,
         "evidence": "Publisher shows institutional access / purchase; Crossref lists TDM and standard policy URLs, not an applicable Creative Commons license."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Node-targeted multi-step percolation",
       "summary": "Studying multi-step percolation under targeted node removal and its effects on network connectivity.",
-      "homeBrief": "Studying multi-step percolation under targeted node removal and its effects on network connectivity."
+      "homeBrief": "Studying multi-step percolation under targeted node removal and its effects on network connectivity.",
+      "abstractSummary": "The paper models network collapse as repeated, targeted node failures rather than a single random removal event. Each round operates on the surviving network and updates failure probabilities using its current structure. A generating-function framework predicts changes in the giant connected component for approximately locally tree-like networks without extremely heavy-tailed degree distributions. Tests on ordinary graphs and hypergraphs show greater vulnerability of Poisson-type than power-law degree distributions under the studied process, while preserving the stated limits of the theoretical approximation.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -828,13 +900,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j40-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j40-2026,\n  title = {Multi-agent reinforcement learning for multi-objective optimization of crude distillation units},\n  author = {Dong Xue and Jicheng Tu and Yuan Guo and Jian Long and Liang Zhao},\n  year = {2026},\n  doi = {10.1016/j.ces.2026.124520},\n  url = {https://doi.org/10.1016/j.ces.2026.124520}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0009250926012352",
-      "abstractSource": "Publisher original abstract (short excerpt)",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -843,11 +921,14 @@ window.LAB_CONTENT_EN = {
         "allowsFullReuse": false,
         "evidence": "Publisher shows institutional access / purchase; Crossref lists TDM and standard policy URLs, not an applicable Creative Commons license."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Multi-agent learning for process optimisation",
       "summary": "Investigating multi-agent reinforcement learning for multi-objective optimisation of crude distillation units.",
-      "homeBrief": "Investigating multi-agent reinforcement learning for multi-objective optimisation of crude distillation units."
+      "homeBrief": "Investigating multi-agent reinforcement learning for multi-objective optimisation of crude distillation units.",
+      "abstractSummary": "This work combines a hybrid process model with multi-agent reinforcement learning to optimize crude distillation under changing conditions. CNN, bidirectional LSTM and attention components describe process dynamics and provide a surrogate environment for a partially observable Markov game. MADDPG agents learn coordinated policies balancing product yield against energy cost. Under the tested dynamic conditions, the resulting Pareto solutions match or improve on NSGA-II in quality, with computation suitable for online optimization. Further analyses examine robustness to model scale, regularization, reward design and strategy selection.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -903,13 +984,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j39-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j39-2026,\n  title = {Coevolution of epidemic spreading with actions and opinions in multilayer networks},\n  author = {Dong Xue and Xinyi Chen and Zhaoyang Duan and Fangzhou Liu and Yang Tang},\n  year = {2026},\n  doi = {10.1016/j.chaos.2026.118712},\n  url = {https://doi.org/10.1016/j.chaos.2026.118712}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077926008532",
-      "abstractSource": "Publisher original abstract (short excerpt)",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -918,11 +1005,14 @@ window.LAB_CONTENT_EN = {
         "allowsFullReuse": false,
         "evidence": "Publisher shows institutional access / purchase; Crossref lists TDM and standard policy URLs, not an applicable Creative Commons license."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Spreading, actions and opinions",
       "summary": "Connecting epidemic spreading with individual actions and opinion dynamics in multilayer networks.",
-      "homeBrief": "Connecting epidemic spreading with individual actions and opinion dynamics in multilayer networks."
+      "homeBrief": "Connecting epidemic spreading with individual actions and opinion dynamics in multilayer networks.",
+      "abstractSummary": "The study separates observable behavior from private beliefs in a three-layer model of epidemic transmission, action changes and opinion formation. An SIS process depends on individual actions while also influencing opinions; social norms and consistency mechanisms couple the layers. Theoretical analysis establishes convergence and stability, including a Nash equilibrium for actions and corresponding steady opinions. Numerical experiments indicate that reducing disagreement between expressed actions and private beliefs can improve epidemic suppression within the model, rather than treating visible protective behavior as a complete account of decision-making.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -977,13 +1067,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j36-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j36-2026,\n  title = {High-order quasi-clique detection based on motif similarity for complex networks},\n  author = {Hui Cheng and Jingxi Zhu and Fangzhou Liu and Dong Xue},\n  year = {2026},\n  doi = {10.1016/j.physa.2026.131601},\n  url = {https://doi.org/10.1016/j.physa.2026.131601}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.physa.2026.131601",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0378437126003377",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -991,10 +1087,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "High-order quasi-clique detection based on motif similarity for complex networks",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "This paper uses motif-level structural similarity to detect cohesive groups that pairwise neighborhood measures may overlook. It first improves neighborhood-based similarity with node-adaptive thresholds, then introduces the expansion-based MBSim algorithm to select neighbors through shared higher-order patterns. Evaluations examine the density and size of detected quasi-cliques. Application to the World Trade Network over 2000–2019 identifies core–periphery organization and shows that structural robustness need not imply functional resilience, connecting dense-subgraph detection with the analysis of complex trade networks.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1141,13 +1240,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-c14-2026-openalex-recheck.json",
+          "kind": "summary",
+          "sourceKind": "bibliographic_paper_abstract_metadata",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@inproceedings{faculty-c14-2026,\n  title = {LLM-DTS: Resilience Formation Control Via Semantic Reasoning and Adaptive Topology Switching},\n  author = {Xuanjie Zhou and Yafen Zhang and Zhao Zhou and Dong Xue},\n  year = {2026},\n  doi = {10.1109/ICCA69928.2026.11618139},\n  url = {https://doi.org/10.1109/ICCA69928.2026.11618139}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/ICCA69928.2026.11618139",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/https://doi.org/10.1109/ICCA69928.2026.11618139",
+      "abstractSource": "bibliographic_paper_abstract_metadata",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1155,10 +1260,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "LLM-DTS: Resilience Formation Control Via Semantic Reasoning and Adaptive Topology Switching",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "LLM-DTS addresses multi-robot formation navigation in complex, non-convex environments. Fixed model-predictive-control parameters and rigid coordination topologies can produce local minima or deadlocks near dense obstacles and narrow passages. The proposed hierarchical method uses a language model to interpret environmental semantics and adapt the underlying MPC topology and control parameters. Simulation results report improved navigation success across different scenarios and autonomous formation reshaping through severe spatial bottlenecks.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1183,22 +1291,30 @@ window.LAB_CONTENT_EN = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.chaos.2025.116211",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j20-2025.json",
+          "kind": "original",
+          "sourceKind": "open_access_publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j20-2025,\n  title = {Flexible mitigation of epidemics by transport management},\n  author = {F. Liu and Dong Xue# and X. Yu and Z. Zhao and S. Lin and S. Zhuang and C. I. del Genio and S. Boccaletti and H. Gao},\n  year = {2025},\n  doi = {10.1016/j.chaos.2025.116211},\n  url = {https://doi.org/10.1016/j.chaos.2025.116211}\n}",
-      "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2025.116211",
-      "abstractSource": "Original article landing page",
+      "abstractOriginal": "In recent years, the global spread of novel infectious diseases has become a significant concern at all levels of the society. The existence of a capillary transport network that facilitates the transmission of the diseases is a particular factor whose relevance cannot be underestimated. In fact, to try to slow down the spread of the recent COVID-19 pandemic, many governments adopted control measures that directly included travel restrictions. These measures, while undoubtedly effective, also had deleterious political and societal effects. In this article, we introduce an event-trigger mechanism in the decision-making framework for the mitigation of epidemics via transport management. Using our approach, we demonstrate that one can develop restriction policies in a controlled manner, so that the economic side effects remain tolerable. When applied to the COVID-19 pandemic data in Germany, our method shows better performance than the measures that were actually implemented.",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077925002243",
+      "abstractSource": "open_access_publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
-        "name": "Not verified",
-        "url": "",
-        "allowsFullReuse": false
+        "name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "allowsFullReuse": true,
+        "evidenceURL": "https://iris.cnr.it/retrieve/df81b0f2-77c6-439c-a150-b0ca0788090f/1-s2.0-S0960077925002243-main%20%281%29.pdf",
+        "evidence": "The publisher PDF explicitly labels the article as open access under CC BY 4.0; the Crossref vor license independently agrees."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "full_original",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Flexible mitigation of epidemics by transport management",
       "homeBrief": ""
     },
@@ -1256,13 +1372,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j18-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j18-2025,\n  title = {Molecular management in continuous catalytic reforming operations by enhanced aromatics production through transformer-driven entropy maximization reconstruction},\n  author = {Yi Shi and Weimin Zhong and Xin Peng and Kaixun He and Dong Xue},\n  year = {2025},\n  doi = {10.1016/j.ces.2025.121359},\n  url = {https://doi.org/10.1016/j.ces.2025.121359}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.ces.2025.121359",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0009250925001824",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1270,10 +1392,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Molecular management in continuous catalytic reforming operations by enhanced aromatics production through transformer-driven entropy maximization reconstruction",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The research develops a molecular-level optimization framework for continuous catalytic reforming under feedstock and market variability. Transformer-driven Entropy Maximization combines historical data with composition reconstruction to improve estimates of naphtha feed properties. A molecular kinetic model connects these estimates with production objectives. The proposed Online Synchronized Learning Multi-Objective Optimization method adds online learning to a metaheuristic search, aiming to reduce computational complexity and adapt operating decisions as conditions change. The framework targets aromatics production, process efficiency and profitability without treating feedstock composition as fixed.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1337,13 +1462,19 @@ window.LAB_CONTENT_EN = {
           ]
         },
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j17-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_full_text_editorial",
+          "version": "published"
+        }
       },
       "topicKey": "health",
       "bibtex": "@article{faculty-j17-2025,\n  title = {Every cloud has a silver lining: DeepSeek’s light through acute respiratory distress syndrome shadows},\n  author = {Xinhao Jin and Jing Zhang and Jie Yang and Suibi Yang and Dong Xue and Zhongheng Zhang},\n  year = {2025},\n  doi = {10.21037/jtd-2025-381},\n  url = {https://doi.org/10.21037/jtd-2025-381}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.21037/jtd-2025-381",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://jtd.amegroups.org/article/view/97085/html",
+      "abstractSource": "publisher_full_text_editorial",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1351,10 +1482,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Every cloud has a silver lining: DeepSeek’s light through acute respiratory distress syndrome shadows",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "This editorial considers possible research applications of DeepSeek and related language models in acute respiratory distress syndrome. It discusses diagnosis, patient phenotyping, personalized ventilation, immune-modulating treatment and prognosis, envisioning the integration of clinical records, ventilator measurements and biomarkers. The authors also identify data quality, interpretability, bias and workflow integration as barriers, and call for staged observational and prospective evaluation. The article has no separate abstract and does not present a new trial demonstrating clinical benefit; this text is an overview of its arguments.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "article_overview"
     },
     {
       "type": "论文",
@@ -1410,13 +1544,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j16-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j16-2025,\n  title = {Hybrid model of multimodal based on data enhancement and lumped reaction kinetics: Applying to industrial ebullated-bed residue hydrogenation unit},\n  author = {Jian Long and Mengru Zhang and Anlan Li and Cheng Huang and Dong Xue},\n  year = {2025},\n  doi = {10.1016/j.cjche.2024.10.019},\n  url = {https://doi.org/10.1016/j.cjche.2024.10.019}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.cjche.2024.10.019",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/abs/pii/S1004954124003781",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1424,10 +1564,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Hybrid model of multimodal based on data enhancement and lumped reaction kinetics: Applying to industrial ebullated-bed residue hydrogenation unit",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The study combines data augmentation with reaction kinetics to predict product yields in an industrial ebullated-bed residue hydrogenation unit. GAN-based sample generation, outlier removal and L2-norm filtering address sparse measurements. Kernel principal component analysis and fuzzy C-means then separate operating modes, enabling mode-specific eleven-lump kinetic models. Evaluation on industrial data reports lower average absolute error than a single model trained without augmentation. The work links generated data, process-state partitioning and mechanistic modeling to support prediction under changing operating conditions.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1614,13 +1757,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2024,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/publisher-web-evidence.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_conclusions",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j14-2024,\n  title = {Time series modeling and forecasting of epidemic spreading processes using deep transfer learning},\n  author = {Dong Xue and Ming Wang and Fangzhou Liu and Martin Buss},\n  year = {2024},\n  doi = {10.1016/j.chaos.2024.115092},\n  url = {https://doi.org/10.1016/j.chaos.2024.115092}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2024.115092",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077924006441",
+      "abstractSource": "publisher_abstract_and_conclusions",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1628,10 +1777,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Time series modeling and forecasting of epidemic spreading processes using deep transfer learning",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The framework targets epidemic time series whose distributions differ across periods, places and viruses. It combines convolutional feature extraction, bidirectional temporal modelling and a prediction layer, then transfers information learned from auxiliary data to a new outbreak setting. Particle-swarm search selects model hyperparameters. Experiments examine COVID-19 dynamics and differences involving SARS and H1N1. The reported evaluations support improved modelling and forecasting in the studied settings. The conclusions also qualify this benefit: adequate target-period observations matter, and transferring between widely separated periods can produce negative transfer.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1746,13 +1898,19 @@ window.LAB_CONTENT_EN = {
           "evidence": "LIU Fengfeng, XUE Dong. Distributed Optimal Power Flow Analysis of Active Distribution Networks Based on Intelligent Partition Strategy[J]. Journal of East China University of Science and Technology, 2024, 50(4): 550-559. DOI: 10.14135/j.cnki.1006-3080.20230323006",
           "accessNote": "Verified against the search-indexed original journal article page. Direct open returned a Security Verification screen; no CAPTCHA bypass was attempted."
         },
-        "previousCrossrefStatus": "Crossref returned 404; publisher supports this DOI and citation."
+        "previousCrossrefStatus": "Crossref returned 404; publisher supports this DOI and citation.",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/publisher-web-evidence.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j12-2024,\n  title = {Distributed Optimal Power Flow Analysis of Active Distribution Networks Based on Intelligent Partition Strategy},\n  author = {Fengfeng Liu and Dong Xue},\n  year = {2024},\n  doi = {10.14135/j.cnki.1006-3080.20230323006},\n  url = {https://doi.org/10.14135/j.cnki.1006-3080.20230323006}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.14135/j.cnki.1006-3080.20230323006",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://journal.ecust.edu.cn/en/article/doi/10.14135/j.cnki.1006-3080.20230323006?viewType=HTML",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1760,10 +1918,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Distributed Optimal Power Flow Analysis of Active Distribution Networks Based on Intelligent Partition Strategy",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "This paper combines data-informed partitioning with decentralized optimal-power-flow computation for active distribution networks. Measurement data determine useful regional partitions, while an alternating-direction optimization scheme solves the regional problems. Consensus coordination handles boundary agreement, reducing dependence on globally collected information. A LinDistFlow approximation addresses the difficulty of the original nonlinear power-flow formulation. Tests on IEEE distribution networks of different sizes compare the proposed partitioning approach with alternatives, considering both numerical accuracy and computation time. The results indicate that choosing partitions from measurements can improve distributed solution performance.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1822,13 +1983,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2022,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c10-2022-openalex.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c10-2022,\n  title = {A GUI-based Low-Code Development Platform for Power Systems Analysis},\n  author = {Xuanrong Zhong and Xinyi Zhou and Yang Xia and Guibao Bai and Juyue Dong and Dong Xue},\n  year = {2022},\n  doi = {10.1109/CAC57257.2022.10055210},\n  url = {https://doi.org/10.1109/CAC57257.2022.10055210}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CAC57257.2022.10055210",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/https://doi.org/10.1109/CAC57257.2022.10055210",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1836,10 +2003,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "A GUI-based Low-Code Development Platform for Power Systems Analysis",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The proposed platform addresses the cost, extensibility and interface limitations of tools used to model and analyse electrical networks. It applies low-code development to a graphical environment, with renewable-energy integration as an important application setting. Drag-and-drop components and interface services support modelling tasks while leaving room for extensions. Communication protocols and programming interfaces connect the platform with external data and open-source libraries. The paper presents this architecture as a way to reduce development effort and improve integration across power-system design, planning and operational analysis.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1897,24 +2067,34 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2021,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c9-2021.html",
+          "kind": "original",
+          "sourceKind": "arxiv_metadata",
+          "version": "preprint"
+        }
       },
       "topicKey": "social",
       "bibtex": "@inproceedings{faculty-c9-2021,\n  title = {Distributed Link Removal Strategy for Networked Meta-Population Epidemics and Its Application to the Control of the COVID-19 Pandemic},\n  author = {Fangzhou Liu and Yuhong Chen and Tong Liu and Dong Xue and Martin Buss},\n  year = {2021},\n  doi = {10.1109/CDC45484.2021.9683314},\n  url = {https://doi.org/10.1109/CDC45484.2021.9683314}\n}",
-      "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CDC45484.2021.9683314",
-      "abstractSource": "Original article landing page",
+      "abstractOriginal": "In this paper, we investigate the distributed link removal strategy for networked meta-population epidemics. In particular, a deterministic networked susceptible-infected-recovered (SIR) model is considered to describe the epidemic evolving process. In order to curb the spread of epidemics, we present the spectrum-based optimization problem involving the Perron-Frobenius eigenvalue of the matrix constructed by the network topology and transition rates. A modified distributed link removal strategy is developed such that it can be applied to the SIR model with heterogeneous transition rates on weighted digraphs. The proposed approach is implemented to control the COVID-19 pandemic by using the reported infected and recovered data in each state of Germany. The numerical experiment shows that the infected percentage can be significantly reduced by using the distributed link removal strategy.",
+      "abstractURL": "https://arxiv.org/abs/2006.16221v1",
+      "abstractSource": "arxiv_metadata",
       "abstractLanguage": "en",
-      "abstractVersion": "version_of_record",
+      "abstractVersion": "preprint",
       "abstractLicense": {
-        "name": "Not verified",
-        "url": "",
-        "allowsFullReuse": false
+        "name": "CC0 1.0 Universal (arXiv metadata only)",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "allowsFullReuse": true,
+        "scope": "Title, authors and abstract metadata; does not license the paper PDF",
+        "evidenceURL": "https://info.arxiv.org/help/policies/submission_agreement.html#metadata-license",
+        "evidenceFile": "work/faculty-v9/sources/arxiv-submission-policy.html"
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "full_original",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Distributed Link Removal Strategy for Networked Meta-Population Epidemics and Its Application to the Control of the COVID-19 Pandemic",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractVersionLabel": "arXiv:2006.16221v1"
     },
     {
       "type": "论文",
@@ -1970,13 +2150,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2020,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-j9-2020.pdf",
+          "kind": "summary",
+          "sourceKind": "author_institution_repository_published_article",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j9-2020,\n  title = {Opinion Behavior Analysis in Social Networks Under the Influence of Coopetitive Media},\n  author = {Dong Xue and Sandra Hirche and Ming Cao},\n  year = {2020},\n  doi = {10.1109/TNSE.2019.2894565},\n  url = {https://doi.org/10.1109/TNSE.2019.2894565}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/TNSE.2019.2894565",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://pure.rug.nl/ws/portalfiles/portal/132962995/08621021.pdf",
+      "abstractSource": "author_institution_repository_published_article",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1984,10 +2170,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Opinion Behavior Analysis in Social Networks Under the Influence of Coopetitive Media",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The model treats interpersonal exchange and media exposure as interacting sources of opinion change. It includes communities, individual biases and relationships in which media actors may cooperate or compete. A port-Hamiltonian formulation connects the analysis of long-term opinions with passivity properties of individual dynamics. The paper examines conditions associated with agreement, opposing camps or neutral opinions, and considers how a dominant media coalition can emerge independently of public views. These results are mathematical statements about the proposed model, rather than empirical claims that every real population follows the same behaviour.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2044,13 +2233,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2020,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-c8-2020.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c8-2020,\n  title = {Adaptive optimal output regulation for industrial hydrocracking process},\n  author = {Zhongmei Li and Mengzhe Huang and Dong Xue and Wenli Du},\n  year = {2020},\n  doi = {10.1109/CAC51589.2020.9327748},\n  url = {https://doi.org/10.1109/CAC51589.2020.9327748}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CAC51589.2020.9327748",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1109/CAC51589.2020.9327748",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2058,10 +2253,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Adaptive optimal output regulation for industrial hydrocracking process",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The study treats reactor-temperature control in industrial hydrocracking as an output-regulation problem, linking temperature to product quality and distribution. Its data-driven design combines reinforcement learning, adaptive dynamic programming and output-regulation theory. Policy iteration is used to obtain an adaptive optimal controller. In simulations, the controller regulates nitrogen concentration in the R101 outlet stream to its desired value, maintains low reaction temperatures across the reactor beds and rejects disturbances. The results concern the reported process simulation and illustrate how iterative policy improvement can support temperature regulation under the specified control objectives.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2121,13 +2319,19 @@ window.LAB_CONTENT_EN = {
           ]
         },
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/faculty-v8/crossref/j8.json",
+          "kind": "summary",
+          "sourceKind": "publisher_deposited_crossref_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j8-2019,\n  title = {Finite‐time distributed topology design for optimal network resilience},\n  author = {Dong Xue and Sandra Hirche},\n  year = {2019},\n  doi = {10.1049/iet-cta.2018.6117},\n  url = {https://doi.org/10.1049/iet-cta.2018.6117}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://doi.org/10.1049/iet-cta.2018.6117",
-      "abstractSource": "Crossref-deposited original abstract",
+      "abstractSource": "publisher_deposited_crossref_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2135,10 +2339,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Finite‐time distributed topology design for optimal network resilience",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The authors seek to improve network resilience without requiring every node to know the entire topology. Their strategy chooses successive link additions or rewiring operations using locally available information. Matrix-perturbation approximations evaluate candidate changes, supported by distributed estimation of graph eigenvalues and eigenvectors. A stopping rule ties the estimation process to a desired accuracy, enabling decisions to finish after a finite computation interval. Numerical examples illustrate the approach. The finite-time claim concerns the estimation and link-operation procedure; it should not be read as a guarantee of a globally optimal topology for every network.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2200,13 +2407,19 @@ window.LAB_CONTENT_EN = {
           ]
         },
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/faculty-v8/crossref/j7.json",
+          "kind": "summary",
+          "sourceKind": "publisher_deposited_crossref_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@article{faculty-j7-2019,\n  title = {Distributed multi‐vehicle task assignment in a time‐invariant drift field with obstacles},\n  author = {Xiaoshan Bai and Weisheng Yan and Ming Cao and Dong Xue},\n  year = {2019},\n  doi = {10.1049/iet-cta.2018.6125},\n  url = {https://doi.org/10.1049/iet-cta.2018.6125}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://doi.org/10.1049/iet-cta.2018.6125",
-      "abstractSource": "Crossref-deposited original abstract",
+      "abstractSource": "publisher_deposited_crossref_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2214,10 +2427,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Distributed multi‐vehicle task assignment in a time‐invariant drift field with obstacles",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "Vehicles with different capabilities must visit targets in a steady drift field while avoiding obstacles; a target may require visits from more than one vehicle type. The objective is to reduce the team's total travel time. A path planner first supplies feasible, minimum-time travel costs between locations. A distributed assignment procedure then uses local communication to satisfy the required visits. The problem is computationally hard. For a symmetric travel-cost matrix, the algorithm has a worst-case bound of twice the optimum, and simulations show solutions near the optimum in the tested cases.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2272,13 +2488,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/liu-thesis.pdf",
+          "kind": "summary",
+          "sourceKind": "author_thesis_matching_published_article",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j6-2019,\n  title = {Polarizability, Consensusability, and Neutralizability of Opinion Dynamics on Coopetitive Networks},\n  author = {Fangzhou Liu and Dong Xue and Sandra Hirche and Martin Buss},\n  year = {2019},\n  doi = {10.1109/TAC.2018.2879599},\n  url = {https://doi.org/10.1109/TAC.2018.2879599}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/TAC.2018.2879599",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://mediatum.ub.tum.de/doc/1471265/594688.pdf",
+      "abstractSource": "author_thesis_matching_published_article",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2286,10 +2508,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Polarizability, Consensusability, and Neutralizability of Opinion Dynamics on Coopetitive Networks",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "Rather than starting with a particular opinion protocol, the work asks whether any admissible distributed rule can produce polarization, agreement or neutrality in a network containing both cooperative and antagonistic links. Spectral arguments and algebraic graph theory connect these possibilities to the combination of individual dynamics and interaction structure. The analysis supplies sufficient or necessary conditions and extends the question to populations whose members have different dynamics. This separates feasibility from the later choice of a particular controller and clarifies which structural and dynamical features restrict the achievable collective outcomes.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "article_overview"
     },
     {
       "type": "论文",
@@ -2387,13 +2612,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2017,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-c7-2017.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@inproceedings{faculty-c7-2017,\n  title = {Heterogeneous multi-vehicle task assignment in a time-invariant drift field with obstacles},\n  author = {Xiaoshan Bai and Weisheng Yan and Ming Cao and Dong Xue},\n  year = {2017},\n  doi = {10.1109/CDC.2017.8263683},\n  url = {https://doi.org/10.1109/CDC.2017.8263683}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CDC.2017.8263683",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1109/CDC.2017.8263683",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2401,10 +2632,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Heterogeneous multi-vehicle task assignment in a time-invariant drift field with obstacles",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "Dispersed vehicles with different capabilities must visit targets in a steady drift field containing obstacles, with total travel time as the objective. Some locations require visits from several vehicle types. The method first computes feasible, minimum-time paths between pairs of locations and uses their costs for assignment. An auction-style distributed procedure then allocates the target visits through local communication, after which the corresponding routes can be generated. Simulations report solutions near the optimum in the examined cases. This connects obstacle-aware motion planning with capability-dependent target allocation while keeping assignment decentralized.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2456,13 +2690,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2016,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c6-2016-openalex.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c6-2016,\n  title = {Conservation-dissipation structure of linear stochastic systems},\n  author = {Dong Xue},\n  year = {2016},\n  doi = {10.1109/CDC.2016.7799187},\n  url = {https://doi.org/10.1109/CDC.2016.7799187}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CDC.2016.7799187",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/https://doi.org/10.1109/CDC.2016.7799187",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2470,10 +2710,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Conservation-dissipation structure of linear stochastic systems",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The paper examines linear stochastic systems driven by white noise through a framework connecting conservation, dissipation and balance relations. Its method starts from an analytically expressed Fokker-Planck operator and separates components of the dynamics by operator decomposition. Structural conditions connect these components with equilibrium and nonequilibrium stationary states. The analysis also considers energy and entropy flows when probability circulation is unbalanced. By relating dissipativity to entropy production, heat release and work extraction, the framework gives a dynamical-systems interpretation of the first and second thermodynamic laws.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2498,13 +2741,19 @@ window.LAB_CONTENT_EN = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1109%2FCHICC.2016.7554843",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-c5-2016.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "health",
       "bibtex": "@inproceedings{faculty-c5-2016,\n  title = {An operator-theoretic approach to synchronization of dynamically coupled biological rhythms},\n  author = {L. Zhao and Dong Xue},\n  year = {2016},\n  doi = {10.1109/CHICC.2016.7554843},\n  url = {https://doi.org/10.1109/CHICC.2016.7554843}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CHICC.2016.7554843",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1109/CHICC.2016.7554843",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2512,10 +2761,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "An operator-theoretic approach to synchronization of dynamically coupled biological rhythms",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "This work analyses synchronization in networks of biological rhythms using an operator-based framework. A biological compartment contains interacting subsystems, such as signalling-linked reaction pathways, while a shared medium couples different compartments. Synchronization conditions connect the input-output behaviour of each compartment with the structure of the surrounding network. The authors also derive a criterion for models written in state-space form. Networks of genetic toggle switches and repressilators illustrate the biochemical setting of the theory. The emphasis is on linking heterogeneous internal dynamics, inter-compartment coupling and collective synchronization.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2538,13 +2790,19 @@ window.LAB_CONTENT_EN = {
         "level": "official_faculty_page",
         "metadataStatus": "no_doi_in_official_record",
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
-        "status": "official_source_only"
+        "status": "official_source_only",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c4-2014.pdf",
+          "kind": "summary",
+          "sourceKind": "author_repository_conference_manuscript",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@inproceedings{faculty-c4-2014,\n  title = {A Distributed Strategy for Near-Optimal Network Topology Design},\n  author = {Dong Xue and A. Gusrialdi and S. Hirche},\n  year = {2014},\n  doi = {},\n  url = {https://faculty.ecnu.edu.cn/_s9/xd2/main.psp}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://mediatum.ub.tum.de/doc/1225318/document.pdf",
+      "abstractSource": "author_repository_conference_manuscript",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2552,10 +2810,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "A Distributed Strategy for Near-Optimal Network Topology Design",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The proposed graph process improves connectivity by adding edges one at a time to increase algebraic connectivity. Because direct combinatorial optimization is difficult, the authors derive a heuristic local selection rule using components of the Laplacian's Fiedler eigenvector. A decentralized estimation method supplies the information needed to apply that rule without gathering the complete network at a central node. The paper analyses convergence and its rate, then demonstrates the integrated strategy through examples. Its objective is a practical distributed approximation to topology optimization, not an exact solution for every graph.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2691,13 +2952,19 @@ window.LAB_CONTENT_EN = {
           ]
         },
         "crossrefYear": 2013,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/faculty-v8/crossref/j2.json",
+          "kind": "summary",
+          "sourceKind": "publisher_deposited_crossref_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@article{faculty-j2-2013,\n  title = {Formation control of multi‐agent systems with stochastic switching topology and time‐varying communication delays},\n  author = {Dong Xue and Jing Yao and Jun Wang and Yafeng Guo and Xu Han},\n  year = {2013},\n  doi = {10.1049/iet-cta.2011.0325},\n  url = {https://doi.org/10.1049/iet-cta.2011.0325}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://doi.org/10.1049/iet-cta.2011.0325",
-      "abstractSource": "Crossref-deposited original abstract",
+      "abstractSource": "publisher_deposited_crossref_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2705,10 +2972,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Formation control of multi‐agent systems with stochastic switching topology and time‐varying communication delays",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The study considers formation maintenance when communication graphs change randomly and transmitted information experiences varying delays. Each agent can have nonlinear dynamics associated with different operating modes, while a finite-state Markov process governs switching among communication topologies. Artificial-potential functions provide a general controller construction. A Lyapunov-functional analysis, expressed through linear matrix inequalities, then yields sufficient conditions for stochastic formation stability. The authors also discuss practical design rules and particular choices of potential functions. Simulation examples examine the proposed controllers under the modelled switching and delay conditions.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2761,13 +3031,19 @@ window.LAB_CONTENT_EN = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2013,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c3-2013.pdf",
+          "kind": "summary",
+          "sourceKind": "author_institution_publication_record",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@inproceedings{faculty-c3-2013,\n  title = {Event-triggered consensus of heterogeneous multi-agent systems with double-integrator dynamics},\n  author = {Dong Xue and Sandra Hirche},\n  year = {2013},\n  doi = {10.23919/ECC.2013.6669693},\n  url = {https://doi.org/10.23919/ECC.2013.6669693}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.23919/ECC.2013.6669693",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://portal.fis.tum.de/en/publications/event-triggered-consensus-of-heterogeneous-multi-agent-systems-wi/",
+      "abstractSource": "author_institution_publication_record",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2775,10 +3051,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Event-triggered consensus of heterogeneous multi-agent systems with double-integrator dynamics",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "This paper examines second-order consensus for agents with double-integrator dynamics using event-triggered control updates. Position and velocity information may travel over different graphs, so the analysis first identifies relevant structural conditions for agreement. It then develops centralized and distributed triggering policies. Under the stated assumptions, these policies yield exponential consensus. A strictly positive bound on the time separating consecutive updates excludes infinitely many events in a finite interval. Numerical simulations illustrate the proposed combination of heterogeneous information exchange and on-demand control scheduling.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2803,13 +3082,19 @@ window.LAB_CONTENT_EN = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1109%2FACC.2013.6580865",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c2-2013.pdf",
+          "kind": "summary",
+          "sourceKind": "coauthor_institution_publication_record",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c2-2013,\n  title = {Robust distributed control design for interconnected systems under topology uncertainty},\n  author = {Dong Xue and A. Gusrialdi and S. Hirche},\n  year = {2013},\n  doi = {10.1109/ACC.2013.6580865},\n  url = {https://doi.org/10.1109/ACC.2013.6580865}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/ACC.2013.6580865",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://stars.library.ucf.edu/scopus2010/6240/",
+      "abstractSource": "coauthor_institution_publication_record",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2817,10 +3102,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Robust distributed control design for interconnected systems under topology uncertainty",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The framework designs a distributed controller together with the communication structure of an interconnected system. It first identifies stabilizing control laws that retain H-infinity robustness despite uncertainty in the topology. It then searches within that feasible set for a communication arrangement with improved H2 performance, while balancing performance gains against communication expense. An additional link-manipulation strategy reduces the effort needed when an existing network changes. Examples demonstrate this two-stage design. The robustness conclusions apply to the uncertainty model and design conditions considered, rather than to unrestricted topology changes.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2876,13 +3164,19 @@ window.LAB_CONTENT_EN = {
         "crossrefPublishedOnline": {},
         "crossrefYear": 2010,
         "normalizationNote": "Matched after removing publisher MathML or accepting D. Xue author initials together with the explicit official faculty listing.",
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-j1-2010.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@article{faculty-j1-2010,\n  title = {Formation control of networked multi-agent systems},\n  author = {D. Xue and J. Yao and G. Chen and Y.-L. Yu},\n  year = {2010},\n  doi = {10.1049/iet-cta.2009.0574},\n  url = {https://doi.org/10.1049/iet-cta.2009.0574}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1049/iet-cta.2009.0574",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1049/iet-cta.2009.0574",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2890,10 +3184,13 @@ window.LAB_CONTENT_EN = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Formation control of networked multi-agent systems",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "The paper develops a framework for consensus and formation control in networks of dynamical agents. Nonlinear behaviour and changes in coupling structure motivate a decentralized strategy built from artificial-potential functions. Additional functions in the controller address difficulties associated with local minima in the potential field. Formation stability is defined through relative positions, and a Lyapunov analysis combined with an extended linear-matrix-inequality method provides conditions for maintaining the desired arrangement. A simulation example illustrates the controller and the resulting approach to analysing coordinated formations.",
+      "abstractSummaryLanguage": "en",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -4056,27 +4353,6 @@ window.LAB_CONTENT_EN = {
         "https://github.com/X-D-Lab/PUA/blob/main/README.md"
       ],
       "upstream": []
-    },
-    {
-      "id": "frxxx",
-      "name": "FrXXX",
-      "chineseName": "",
-      "group": "unconfirmed",
-      "label": "Product information in preparation",
-      "description": "",
-      "detail": "",
-      "features": [],
-      "visualKey": "future",
-      "tone": "neutral",
-      "status": "In preparation",
-      "codeAvailable": false,
-      "descriptionAvailable": false,
-      "repository": "",
-      "repoURL": "",
-      "url": "",
-      "license": null,
-      "source": [],
-      "upstream": []
     }
   ],
   "people": [
@@ -4415,24 +4691,42 @@ window.LAB_CONTENT_EN = {
   ],
   "openings": [
     {
-      "id": "graduate",
-      "title": "Master’s and doctoral students",
-      "description": "Study a scientific question or practical problem through literature review, modelling, algorithm development, experiments and academic writing. Both methodological research and application-oriented projects are welcome."
-    },
-    {
       "id": "postdoc",
-      "title": "Postdoctoral researchers",
-      "description": "Develop an independent research programme, publish research, contribute to grant applications and collaboration, and help supervise students. Research tasks can be discussed in relation to your expertise."
+      "title": "Postdoctoral researcher",
+      "quota": "1–2 positions planned per year",
+      "term": "Normally a two-year appointment",
+      "description": "Conduct relatively independent research within the lab’s areas, contribute to publications, grant applications and collaborative research.",
+      "requirements": "Applicants should hold or be about to obtain a relevant PhD, normally awarded within the past three years, generally be under 35 and be available for full-time work. Eligibility and exceptions follow the university’s current recruitment and review rules.",
+      "support": "Support for research-funding applications and academic exchange. Social insurance and housing provident fund contributions follow applicable regulations; housing applications are handled under the relevant rules.",
+      "tiers": [
+        {
+          "name": "Category A",
+          "requirements": "At least two published first-author papers in SSCI, SCI or recognised domestic Category-A journals.",
+          "salary": "CNY 270,000",
+          "minimumYuan": 270000
+        },
+        {
+          "name": "Category B",
+          "requirements": "At least one published first-author paper in SSCI, SCI or a recognised domestic Category-A journal.",
+          "salary": "CNY 160,000",
+          "minimumYuan": 160000
+        },
+        {
+          "name": "Excellent Postdoctoral Fellow",
+          "requirements": "A PhD from an institution or discipline ranked in the global top 100 by QS, THE or US News, at least three qualifying papers and other applicable requirements; selection is subject to university review.",
+          "salary": "CNY 400,000",
+          "minimumYuan": 400000
+        }
+      ]
     },
     {
       "id": "research-assistant",
-      "title": "Research assistants",
-      "description": "Contribute to data analysis, model training, algorithms, software or hardware development, experiments and platform maintenance. Responsibilities depend on your skills and project needs."
-    },
-    {
-      "id": "undergraduate-intern",
-      "title": "Undergraduates and research interns",
-      "description": "Start with literature review, data analysis, experiments, algorithm reproduction, software development or interaction prototypes, then build towards a complete research task. Please state your availability."
+      "title": "Research assistant",
+      "quota": "3–4 positions planned per year",
+      "term": "Numbers, tasks and appointment terms depend on project arrangements",
+      "description": "Contribute to data analysis, model training, software or hardware development, experimental work and project support.",
+      "requirements": "A bachelor’s degree or above in a relevant discipline, a foundation in research, experiments or technical development, a strong sense of responsibility and availability as arranged. Final eligibility follows the approved role requirements.",
+      "employment": "A second-level personnel-agency appointment under university regulations is planned. Pay and benefits are negotiable and subject to role approval and the employment agreement."
     }
   ],
   "facilities": [
@@ -4498,20 +4792,35 @@ window.LAB_CONTENT_EN = {
     "checkedAt": "2026-11-20"
   },
   "join": {
-    "intro": "We welcome master’s and doctoral students, postdoctoral researchers, research assistants, undergraduates and research interns.",
-    "backgrounds": "Relevant backgrounds include psychology and cognitive science, mathematics and systems science, computing and engineering, medicine and life sciences. Cross-disciplinary experience is welcome.",
-    "method": "Email a CV, your application category, research interests and representative work, together with your proposed start date.",
+    "intro": "CIEI Lab at East China Normal University welcomes applications from China and abroad for full-time postdoctoral and research assistant positions on an ongoing basis. Join interdisciplinary research in AI and cognitive science, embodied interaction, intelligent systems development and application validation.",
+    "location": "The positions are based in Shanghai. The campus and start arrangements will be agreed according to the role and research tasks.",
+    "backgrounds": "We welcome applicants from computer science, artificial intelligence, mathematics, statistics, psychology, cognitive science, neuroscience, control science and engineering, robotics, biomedical engineering, medicine, bioinformatics and related disciplines, including applicants with interdisciplinary research, experimental or engineering experience.",
+    "labOverview": "Based in ECNU’s School of Psychological and Cognitive Sciences and School of Intelligent Interaction, the lab brings together AI, psychology, computer science, complex systems, control theory and systems engineering. Cognitive modelling, analysis and regulation guide our theory; intelligent learning and collaborative decision-making support our methods; embodied interaction and real-world settings support validation. Current work explores brain-inspired learning, world models and trustworthy intelligence.",
+    "topics": [
+      "Emotion-aware embodied world models and collective decision-making",
+      "Multimodal and cross-omics disease-risk prediction with continual learning",
+      "Coupled brain-network and cognitive-behaviour modelling for mental-health assessment",
+      "Cognitive-mechanism-constrained generative social simulation and collective behaviour",
+      "Industrial agents and human–AI collaborative optimisation across social, information and physical systems"
+    ],
+    "impact": "We connect fundamental research with engineering practice in digital social governance, healthcare, emergency response and rescue, intelligent manufacturing, smart homes, energy, transport and education. Our goal is to develop interpretable, adaptive and collaborative methods and systems, while training researchers who combine cognitive understanding, intelligent computing and engineering skills.",
+    "mentorSummary": "Dong Xue is a Professor and PhD supervisor in the Department of Artificial Intelligence and Human Factors Engineering, ECNU School of Psychological and Cognitive Sciences, and holds a doctorate in engineering from the Technical University of Munich. His research connects AI and systems science with social cognition, affective computing, healthcare, embodied interaction and intelligent manufacturing. He has published over 50 papers as first or corresponding author and more than 10 monographs, and works on domain-specific models including MindChat, Sunsimiao and GradChat.",
+    "method": "Email the application materials below, indicating the position and your expected start date.",
     "contactPerson": "Professor Dong Xue",
     "email": "dxue@psy.ecnu.edu.cn",
-    "subject": "CIEI Lab application + category + name + institution",
+    "subject": "CIEI Lab Application + Postdoc / Research Assistant + Name + University or Organisation",
     "materials": [
-      "CV: education, experience, skills and contacts",
-      "Research interests and preparation",
-      "Representative papers, reports, code or other work",
-      "Proposed start date and availability"
+      "Curriculum vitae",
+      "Position sought and research interests",
+      "Representative papers or project portfolio",
+      "Expected start date",
+      "Postdoctoral applicants: a brief research proposal and intended appointment category"
     ],
-    "processNote": "Graduate admission and staff appointments follow the university’s formal procedures. Further discussion depends on research interests, project needs and available supervision.",
-    "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp"
+    "processNote": "Appointment category, remuneration and term are subject to university approval and the employment agreement. Research-performance payments and supervisor supplements follow applicable policies and written agreements.",
+    "source": {
+      "kind": "user_provided_recruitment_notice",
+      "receivedOn": "2026-11-21"
+    }
   },
   "presentation": {
     "homePapers": [

@@ -633,3 +633,92 @@ body[data-page=home] { background: #11171e; }
   .home-direction-figure *, .home-tool-figure *, .home-scene .home-research-link { transition: none; animation: none; }
 }
 
+
+.abstract-label { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; }
+.abstract-version { font-size: .875rem; font-weight: 400; color: #61717b; }
+/* The approved recruitment notice: roles, qualifications and application details. */
+.recruitment-intro { padding-bottom: 42px; }
+.recruitment-intro .section-header { margin-bottom: 24px; }
+.recruitment-intro .join-intro { max-width: 67em; margin: 0; }
+.recruitment-location { color: #536575; font-size: 1rem; line-height: 1.9; margin: 14px 0 25px; }
+.recruitment-facts { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 22px; max-width: 850px; }
+.recruitment-facts a { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 20px 23px; background: #edf2f5; border: 1px solid #d6e0e7; border-left: 3px solid #477b8e; border-radius: 4px; }
+.recruitment-facts a:hover { background: #e1ecf0; }
+.recruitment-facts strong { color: #203c4c; font-size: 1.125rem; font-weight: 600; }
+.recruitment-facts span { font-size: 1rem; color: #3f6478; }
+.recruitment-main { border-top: 1px solid #dfe6ec; padding-top: 46px; }
+.recruitment-main .join-layout { grid-template-columns: minmax(0,1fr) minmax(285px,.4fr); gap: 48px; align-items: start; }
+.recruitment-content { min-width: 0; }
+.recruitment-section + .recruitment-section { margin-top: 58px; }
+.recruitment-section .section-header { margin-bottom: 24px; }
+.recruitment-section h2 { font-size: clamp(1.625rem,2.3vw,2rem); line-height: 1.5; }
+.recruitment-section > p, .recruitment-role > p, .recruitment-mentor p { font-size: 1rem; line-height: 2; color: #415563; }
+.recruitment-section h3 { font-size: 1.25rem; color: #203a4b; line-height: 1.65; font-weight: 600; }
+.recruitment-directions { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px 20px; margin: 25px 0 30px; }
+.recruitment-directions a { color: #315f80; font-size: 1rem; line-height: 1.8; border-bottom: 1px solid #c7d5df; padding-bottom: 9px; }
+.recruitment-directions a:hover { color: #1c4e6c; border-color: #527b98; }
+.recruitment-topics { margin: 16px 0 25px; padding-left: 1.3em; }
+.recruitment-topics li { font-size: 1rem; line-height: 1.9; color: #415563; margin-bottom: 11px; padding-left: 6px; }
+.recruitment-topics li::marker { color: #548197; }
+.recruitment-mentor { display: grid; grid-template-columns: 105px minmax(0,1fr); align-items: start; gap: 24px; border-top: 1px solid #d8e2e9; margin-top: 30px; padding-top: 28px; }
+.recruitment-mentor img { width: 105px; height: 133px; object-fit: cover; object-position: center; border-radius: 3px; }
+.recruitment-mentor .eyebrow { font-size: .875rem; margin: 0 0 8px; color: #617b8d; }
+.recruitment-mentor h3 { margin: 0 0 10px; }
+.recruitment-mentor p { margin: 0; }
+.recruitment-role { padding: 30px 0; border-top: 1px solid #cedbe5; scroll-margin-top: 90px; }
+.recruitment-role-heading { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 12px 24px; }
+.recruitment-role-heading h3 { font-size: 1.5rem; margin: 0; }
+.recruitment-role-heading span { color: #315f80; background: #e9f0f5; padding: 6px 12px; border-radius: 4px; font-size: .9375rem; }
+.recruitment-role .recruitment-term { font-size: .9375rem; color: #607485; margin-top: 11px; }
+.recruitment-role h4 { font-size: 1rem; margin: 24px 0 10px; font-weight: 650; color: #263e4e; }
+.recruitment-role > p { margin: 0 0 16px; }
+.compensation-table-wrap { max-width: 100%; margin: 17px 0 24px; }
+.compensation-table { width: 100%; table-layout: fixed; border-collapse: collapse; font-size: 1rem; line-height: 1.85; text-align: left; }
+.compensation-table th, .compensation-table td { border: 1px solid #d3dfe8; padding: 15px 17px; vertical-align: top; overflow-wrap: anywhere; }
+.compensation-table thead { background: #e9f0f5; color: #35586f; }
+.compensation-table thead th { font-weight: 600; }
+.compensation-table th:first-child { width: 20%; }
+.compensation-table th:last-child { width: 25%; }
+.compensation-table tbody th { color: #254c65; background: #f4f7f9; font-weight: 600; }
+.compensation-table td { color: #415563; }
+.compensation-table .salary-amount { color: #235d72; font-weight: 650; }
+.recruitment-role .recruitment-policy { color: #566c7b; border-left: 2px solid #8da7b8; padding: 12px 18px; background: #f2f5f7; }
+.recruitment-main .application-box { position: sticky; top: 95px; padding: 26px; }
+.recruitment-main .application-box h4 { color: #29475a; margin: 26px 0 12px; font-size: 1rem; }
+.recruitment-main .application-box ul { padding-left: 20px; }
+.recruitment-main .application-box li { margin-bottom: 13px; font-size: 1rem; line-height: 1.85; }
+.recruitment-main .application-subject { font-size: .9375rem; overflow-wrap: anywhere; line-height: 1.9; }
+@media(max-width:1100px) {
+  .recruitment-main .join-layout { grid-template-columns: minmax(0,1fr); gap: 35px; }
+  .recruitment-main .application-box { position: static; max-width: none; }
+}
+@media(max-width:760px) {
+  .recruitment-intro { padding-bottom: 30px; }
+  .recruitment-facts { grid-template-columns: minmax(0,1fr); gap: 14px; }
+  .recruitment-facts a { padding: 17px; }
+  .recruitment-main { padding-top: 32px; }
+  .recruitment-directions { grid-template-columns: minmax(0,1fr); gap: 13px; }
+  .recruitment-mentor { grid-template-columns: 74px minmax(0,1fr); gap: 17px; }
+  .recruitment-mentor img { width: 74px; height: 94px; }
+  .recruitment-mentor .record-links { gap: 8px 20px; }
+  .compensation-table th, .compensation-table td { padding: 12px 9px; }
+  .compensation-table th:first-child { width: 21%; }
+  .compensation-table th:last-child { width: 27%; }
+  .recruitment-role { padding-block: 25px; }
+  .recruitment-role-heading h3 { font-size: 1.375rem; }
+  .recruitment-role-heading span { font-size: .875rem; }
+}
+
+
+/* Mobile salary comparison keeps each category together. */
+@media(max-width:760px) {
+  .compensation-table { display: block; }
+  .compensation-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .compensation-table tbody { display: grid; gap: 16px; }
+  .compensation-table tbody tr { display: grid; grid-template-columns: minmax(0,1fr) minmax(105px,.8fr); border: 1px solid #cfdee8; border-radius: 4px; overflow: hidden; }
+  .compensation-table tbody tr > th { grid-column: 1; grid-row: 1; width: auto; min-width: 0; padding: 15px; border: 0; background: #edf3f7; overflow-wrap: normal; }
+  .compensation-table tbody tr > th:first-child { width: auto; }
+  .compensation-table tbody td:not(.salary-amount) { grid-column: 1 / -1; grid-row: 2; padding: 16px; border: 0; border-top: 1px solid #d5e0e8; }
+  .compensation-table .salary-amount { grid-column: 2; grid-row: 1; padding: 12px 15px; border: 0; background: #edf3f7; overflow-wrap: normal; }
+  .compensation-table .salary-amount:before { content: attr(data-label); display: block; color: #587387; font-size: .8125rem; font-weight: 400; line-height: 1.65; margin-bottom: 5px; }
+}

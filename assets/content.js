@@ -189,11 +189,17 @@ window.LAB_CONTENT = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1007%2Fs11432-024-4290-4",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/formation-llm-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_pdf_local_archive",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
       "abstractURL": "https://scis.scichina.com/en/2025/150205.pdf",
-      "abstractSource": "Original publisher PDF, page 1 (short excerpt)",
+      "abstractSource": "publisher_pdf_local_archive",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -201,9 +207,12 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "探索大语言模型与多机器人编队、路径规划及协同控制的结合。"
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "探索大语言模型与多机器人编队、路径规划及协同控制的结合。",
+      "abstractSummary": "针对多机器人路径规划依赖预设规则、难以适应复杂环境的问题，研究构建大语言模型辅助的协同控制框架。模型综合文字描述的运动约束、机器人状态和局部环境信息，生成运动目标并转化为可执行控制指令，支持编队的形成、保持与重构。无障碍及避障场景的仿真考察了系统的自主决策、环境适应和扰动应对能力，显示语言推理与底层运动控制相结合的可行性；验证范围为仿真实验。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -369,11 +378,17 @@ window.LAB_CONTENT = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1109%2FTSMC.2026.3686176",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/opinion-higher-order-2026-provenance-recheck.json",
+          "kind": "summary",
+          "sourceKind": "cross_checked_paper_abstract_mirror",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/tsmc.2026.3686176",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.researchgate.net/publication/404572879_Opinion_Dynamics_on_Higher-Order_Social_Networks_A_Continuous-Time_Perspective",
+      "abstractSource": "cross_checked_paper_abstract_mirror",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -381,9 +396,12 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "以超图刻画群聊和集体讨论中的高阶交互，建立连续时间观点演化模型。分析有无固执个体时的收敛与稳定性，研究高阶交互和弱关系对观点形成的影响。"
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "以超图刻画群聊和集体讨论中的高阶交互，建立连续时间观点演化模型。分析有无固执个体时的收敛与稳定性，研究高阶交互和弱关系对观点形成的影响。",
+      "abstractSummary": "研究用无向超图表示线上会议、群聊等多人交互，建立连续时间观点演化模型，补充传统成对关系网络对群体影响刻画的不足。模型以类扩散作用函数描述不同阶次的交互，分别讨论存在和不存在固执个体时的收敛与稳定性，并结合弱关系理论分析群体交互对交流效率、观点形成及极化的作用。合成网络和真实网络数据上的数值实验用于检验理论结果，结论限定于所建模型和实验场景。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -414,11 +432,17 @@ window.LAB_CONTENT = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.chaos.2026.118490",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/product-spread-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2026.118490",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077926006314",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -426,9 +450,12 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "研究个体观点如何影响社会网络中的产品采纳与传播。将群体结构带来的高阶社会影响与隐性弱关系纳入模型，刻画超越成对口碑传播的扩散机制。"
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "研究个体观点如何影响社会网络中的产品采纳与传播。将群体结构带来的高阶社会影响与隐性弱关系纳入模型，刻画超越成对口碑传播的扩散机制。",
+      "abstractSummary": "研究将产品采纳和观点形成耦合到双层有向超图中，同时纳入群体影响与潜在弱关系，分析产品评价如何影响传播。采纳层描述高阶传染过程，观点层刻画多人共同作用下的合作交互；理论讨论完全采纳、部分采纳和未采纳状态的稳定性与收敛性，并扩展到两种产品竞争。合成与真实超图的仿真表明，高阶交互可改变采纳效率、稳态水平和产品生命周期，并强化竞争传播中的赢家占优现象。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -488,11 +515,17 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/opinion-diversity-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2025.116188",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077925002012",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -500,9 +533,12 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "将多维议题与高阶网络交互结合，研究真实社会中不同观点的形成与共存。考察固执程度、社会影响与高阶交互对观点分布的作用。"
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "将多维议题与高阶网络交互结合，研究真实社会中不同观点的形成与共存。考察固执程度、社会影响与高阶交互对观点分布的作用。",
+      "abstractSummary": "针对社会中多种立场长期共存、传统共识模型难以充分解释的现象，研究把Friedkin–Johnsen观点模型扩展到高阶网络和多维议题。群体中其他成员的状态可调节个体之间的影响，由此引入非线性演化机制，并分析系统的适定性、收敛与稳态行为。理论及数值结果显示，高阶交互有助于形成更丰富的观点分布；个体固执程度与社会影响之间的平衡，共同塑造共识和观点多样性。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -533,11 +569,17 @@ window.LAB_CONTENT = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.aei.2023.102199",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/publisher-web-evidence.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.aei.2023.102199",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S1474034623003270",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -545,9 +587,12 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "针对动态化工过程中关键变量难以准确测量的问题，研究即时学习软测量方法。通过自适应多分支、多尺度卷积网络，支持面向工况变化的局部建模。"
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "针对动态化工过程中关键变量难以准确测量的问题，研究即时学习软测量方法。通过自适应多分支、多尺度卷积网络，支持面向工况变化的局部建模。",
+      "abstractSummary": "针对化工过程工况变化造成的软测量失准、相似样本选取不准和在线建模耗时，研究提出即时学习软测量框架。方法以带特征因子的混合相似度配合 K-means 对历史数据分箱，再自适应选择局部训练样本数量，并用多分支、可变尺度集成卷积网络适配不同过程的特征维数。在沸腾床渣油加氢与物理分离装置数据上的验证表明，该框架能够兼顾预测准确度与建模效率，减少大量历史数据带来的检索和计算负担。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -607,11 +652,17 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2020,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/social-power-2020.pdf",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_verified_against_author_repository",
+          "version": "published"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.ins.2020.05.142",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0020025520305673",
+      "abstractSource": "publisher_abstract_verified_against_author_repository",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -619,9 +670,12 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "研究同时存在正向与对抗关系的社会网络，刻画连续议题讨论中的观点与社会影响力演化。构建反映式自我评价模型，分析网络结构如何决定长期影响力分布。"
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "研究同时存在正向与对抗关系的社会网络，刻画连续议题讨论中的观点与社会影响力演化。构建反映式自我评价模型，分析网络结构如何决定长期影响力分布。",
+      "abstractSummary": "研究把传统非负影响权重扩展到同时含合作与对抗关系的社会网络，考察连续议题讨论中观点与个体社会影响力如何共同演化。模型以他人评价及反映式自我评价机制更新人际影响结构，并从图论角度解释不同成员影响公众观点的途径。作者运用微分李雅普诺夫方法分析自我评价动力学，证明其在文中覆盖的几乎所有网络拓扑下具有全局指数收敛性质；长期影响力由人际评价结构决定，而初始自我评价的作用逐渐消失。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -681,21 +735,30 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/distributed-network-control-2019.pdf",
+          "kind": "summary",
+          "sourceKind": "author_repository_manuscript",
+          "version": "preprint"
+        }
       },
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/tsp.2018.2887211",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://mediatum.ub.tum.de/doc/1470372/00636670505584.pdf",
+      "abstractSource": "author_repository_manuscript",
       "abstractLanguage": "en",
-      "abstractVersion": "version_of_record",
+      "abstractVersion": "preprint",
       "abstractLicense": {
         "name": "Not verified",
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
-      "homeBrief": "在缺少集中协调者的条件下，研究通过移除或重连网络边抑制传播的分布式方法。将事件触发通信、分布式谱估计与协同决策结合，支持仅依赖局部信息的拓扑调控。"
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
+      "homeBrief": "在缺少集中协调者的条件下，研究通过移除或重连网络边抑制传播的分布式方法。将事件触发通信、分布式谱估计与协同决策结合，支持仅依赖局部信息的拓扑调控。",
+      "abstractSummary": "面向没有中心协调者的网络，论文研究通过删除或重连接触边来抑制传播，并将拓扑操作联系到谱半径最小化。由于这一组合优化问题通常难以精确求解，作者构建结合事件触发通信与并行算法的分布式谱估计，使节点依据局部信息识别关键连接并逐次执行操作。研究还将方法扩展到结构与传播共同变化的网络，从代数和拓扑两方面讨论解的最优性，并通过多组仿真验证策略。其重点是局部计算与协同决策，而非依赖完整网络的集中控制。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -752,13 +815,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j41-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j41-2026,\n  title = {Node-targeted multi-step percolation on networks},\n  author = {Yutong Li and Zhehua Zhou and Dong Xue and Stefano Boccaletti and Fangzhou Liu},\n  year = {2026},\n  doi = {10.1016/j.chaos.2026.119389},\n  url = {https://doi.org/10.1016/j.chaos.2026.119389}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077926015304",
-      "abstractSource": "Publisher original abstract (short excerpt)",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -767,11 +836,14 @@ window.LAB_CONTENT = {
         "allowsFullReuse": false,
         "evidence": "Publisher shows institutional access / purchase; Crossref lists TDM and standard policy URLs, not an applicable Creative Commons license."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "面向关键节点的多步网络渗流",
       "summary": "研究节点定向移除下的多步渗流，分析网络结构与连通性的变化。",
-      "homeBrief": "研究节点定向移除下的多步渗流，分析网络结构与连通性的变化。"
+      "homeBrief": "研究节点定向移除下的多步渗流，分析网络结构与连通性的变化。",
+      "abstractSummary": "研究把网络失效描述为连续多轮的节点定向渗流：每轮以前一轮留下的网络为起点，并依据当前结构更新节点失效概率。作者以生成函数建立巨型连通分量的预测框架，其适用前提包括网络近似局部树状、度分布没有极端重尾。普通图和超图的随机实验显示，在所考察的定向多步失效机制下，泊松度或超度分布网络往往比幂律分布网络更脆弱，为分析渐进性网络崩溃提供模型工具。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -828,13 +900,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j40-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j40-2026,\n  title = {Multi-agent reinforcement learning for multi-objective optimization of crude distillation units},\n  author = {Dong Xue and Jicheng Tu and Yuan Guo and Jian Long and Liang Zhao},\n  year = {2026},\n  doi = {10.1016/j.ces.2026.124520},\n  url = {https://doi.org/10.1016/j.ces.2026.124520}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0009250926012352",
-      "abstractSource": "Publisher original abstract (short excerpt)",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -843,11 +921,14 @@ window.LAB_CONTENT = {
         "allowsFullReuse": false,
         "evidence": "Publisher shows institutional access / purchase; Crossref lists TDM and standard policy URLs, not an applicable Creative Commons license."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "多智能体强化学习与炼化优化",
       "summary": "面向原油蒸馏装置的多目标优化，研究多智能体强化学习在运行决策中的应用。",
-      "homeBrief": "面向原油蒸馏装置的多目标优化，研究多智能体强化学习在运行决策中的应用。"
+      "homeBrief": "面向原油蒸馏装置的多目标优化，研究多智能体强化学习在运行决策中的应用。",
+      "abstractSummary": "面向原油蒸馏装置中产品收率与能源成本相冲突、工况持续变化的优化问题，研究结合混合数据建模和多智能体强化学习。卷积网络、双向长短期记忆网络及注意力机制共同描述装置动态，并作为部分可观测马尔可夫博弈的代理环境，由MADDPG协同学习决策。实验报告，动态工况下所得帕累托解的质量与NSGA-II相当或更好，计算性能支持在线优化；研究还考察了模型规模、正则化及奖励设置对稳健性的影响。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -903,13 +984,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j39-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j39-2026,\n  title = {Coevolution of epidemic spreading with actions and opinions in multilayer networks},\n  author = {Dong Xue and Xinyi Chen and Zhaoyang Duan and Fangzhou Liu and Yang Tang},\n  year = {2026},\n  doi = {10.1016/j.chaos.2026.118712},\n  url = {https://doi.org/10.1016/j.chaos.2026.118712}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077926008532",
-      "abstractSource": "Publisher original abstract (short excerpt)",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -918,11 +1005,14 @@ window.LAB_CONTENT = {
         "allowsFullReuse": false,
         "evidence": "Publisher shows institutional access / purchase; Crossref lists TDM and standard policy URLs, not an applicable Creative Commons license."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "传播、行动与观点的协同演化",
       "summary": "在多层网络中连接传播过程、个体行动与观点演化，研究行为反馈对传播的影响。",
-      "homeBrief": "在多层网络中连接传播过程、个体行动与观点演化，研究行为反馈对传播的影响。"
+      "homeBrief": "在多层网络中连接传播过程、个体行动与观点演化，研究行为反馈对传播的影响。",
+      "abstractSummary": "研究区分个体可见行动与内在观点，在疾病传播、行动转换和观点形成三个网络层上构建共同演化模型。SIS传染过程受个人行动影响并反向改变观点，行动与观点通过社会规范、认知失调和态度行为一致性等机制耦合。作者分析非线性系统的收敛与稳定性，表明行动可趋近纳什均衡、观点达到相应稳态；理论条件及数值实验进一步提示，减小公开行动与私人观点的偏差有助于抑制模型中的疾病传播。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -977,13 +1067,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j36-2026.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j36-2026,\n  title = {High-order quasi-clique detection based on motif similarity for complex networks},\n  author = {Hui Cheng and Jingxi Zhu and Fangzhou Liu and Dong Xue},\n  year = {2026},\n  doi = {10.1016/j.physa.2026.131601},\n  url = {https://doi.org/10.1016/j.physa.2026.131601}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.physa.2026.131601",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0378437126003377",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -991,10 +1087,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "High-order quasi-clique detection based on motif similarity for complex networks",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究针对准团检测过度依赖局部成对连边、难以识别高阶结构的问题，提出基于模体相似性的稠密子图分析框架。首先结合局部聚类与模体参与程度，为邻域相似性算法引入节点自适应阈值；随后以MBSim扩展算法按模体结构相似性选择邻居，在子图密度与规模之间取得平衡。真实网络实验及2000—2019年世界贸易网络分析揭示核心—边缘格局，并区分结构上的稳健性与功能上的脆弱性。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1141,13 +1240,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2026,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-c14-2026-openalex-recheck.json",
+          "kind": "summary",
+          "sourceKind": "bibliographic_paper_abstract_metadata",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@inproceedings{faculty-c14-2026,\n  title = {LLM-DTS: Resilience Formation Control Via Semantic Reasoning and Adaptive Topology Switching},\n  author = {Xuanjie Zhou and Yafen Zhang and Zhao Zhou and Dong Xue},\n  year = {2026},\n  doi = {10.1109/ICCA69928.2026.11618139},\n  url = {https://doi.org/10.1109/ICCA69928.2026.11618139}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/ICCA69928.2026.11618139",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/https://doi.org/10.1109/ICCA69928.2026.11618139",
+      "abstractSource": "bibliographic_paper_abstract_metadata",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1155,10 +1260,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "LLM-DTS: Resilience Formation Control Via Semantic Reasoning and Adaptive Topology Switching",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "LLM-DTS研究复杂非凸环境中的多机器人编队导航，针对固定参数与刚性拓扑的模型预测控制容易陷入局部极小值、在密集障碍或狭窄入口处出现导航僵局的问题，提出分层控制方法。大语言模型充当环境语义推理器，动态调整底层MPC的协同拓扑与控制参数，并根据空间约束重构编队。摘要报告，多类仿真场景中的导航成功率得到提高，系统能够自主改变队形穿过极端空间瓶颈。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1183,22 +1291,30 @@ window.LAB_CONTENT = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1016%2Fj.chaos.2025.116211",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j20-2025.json",
+          "kind": "original",
+          "sourceKind": "open_access_publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j20-2025,\n  title = {Flexible mitigation of epidemics by transport management},\n  author = {F. Liu and Dong Xue# and X. Yu and Z. Zhao and S. Lin and S. Zhuang and C. I. del Genio and S. Boccaletti and H. Gao},\n  year = {2025},\n  doi = {10.1016/j.chaos.2025.116211},\n  url = {https://doi.org/10.1016/j.chaos.2025.116211}\n}",
-      "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2025.116211",
-      "abstractSource": "Original article landing page",
+      "abstractOriginal": "In recent years, the global spread of novel infectious diseases has become a significant concern at all levels of the society. The existence of a capillary transport network that facilitates the transmission of the diseases is a particular factor whose relevance cannot be underestimated. In fact, to try to slow down the spread of the recent COVID-19 pandemic, many governments adopted control measures that directly included travel restrictions. These measures, while undoubtedly effective, also had deleterious political and societal effects. In this article, we introduce an event-trigger mechanism in the decision-making framework for the mitigation of epidemics via transport management. Using our approach, we demonstrate that one can develop restriction policies in a controlled manner, so that the economic side effects remain tolerable. When applied to the COVID-19 pandemic data in Germany, our method shows better performance than the measures that were actually implemented.",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077925002243",
+      "abstractSource": "open_access_publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
-        "name": "Not verified",
-        "url": "",
-        "allowsFullReuse": false
+        "name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "allowsFullReuse": true,
+        "evidenceURL": "https://iris.cnr.it/retrieve/df81b0f2-77c6-439c-a150-b0ca0788090f/1-s2.0-S0960077925002243-main%20%281%29.pdf",
+        "evidence": "The publisher PDF explicitly labels the article as open access under CC BY 4.0; the Crossref vor license independently agrees."
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "full_original",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Flexible mitigation of epidemics by transport management",
       "homeBrief": ""
     },
@@ -1256,13 +1372,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j18-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j18-2025,\n  title = {Molecular management in continuous catalytic reforming operations by enhanced aromatics production through transformer-driven entropy maximization reconstruction},\n  author = {Yi Shi and Weimin Zhong and Xin Peng and Kaixun He and Dong Xue},\n  year = {2025},\n  doi = {10.1016/j.ces.2025.121359},\n  url = {https://doi.org/10.1016/j.ces.2025.121359}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.ces.2025.121359",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0009250925001824",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1270,10 +1392,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Molecular management in continuous catalytic reforming operations by enhanced aromatics production through transformer-driven entropy maximization reconstruction",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究面向连续催化重整中原料组成变化难以准确表征、传统集总优化不能充分反映分子作用的问题，提出结合分子重构与多目标优化的框架。TREM方法将Transformer数据模型与最大熵重构相结合，利用历史信息改善石脑油组成估计，再与分子级反应动力学联动。在线同步学习多目标优化方法把在线学习引入元启发式搜索，降低计算复杂度并适应原料性质和市场变化，以支持重整装置的生产与收益优化。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1337,13 +1462,19 @@ window.LAB_CONTENT = {
           ]
         },
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j17-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_full_text_editorial",
+          "version": "published"
+        }
       },
       "topicKey": "health",
       "bibtex": "@article{faculty-j17-2025,\n  title = {Every cloud has a silver lining: DeepSeek’s light through acute respiratory distress syndrome shadows},\n  author = {Xinhao Jin and Jing Zhang and Jie Yang and Suibi Yang and Dong Xue and Zhongheng Zhang},\n  year = {2025},\n  doi = {10.21037/jtd-2025-381},\n  url = {https://doi.org/10.21037/jtd-2025-381}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.21037/jtd-2025-381",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://jtd.amegroups.org/article/view/97085/html",
+      "abstractSource": "publisher_full_text_editorial",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1351,10 +1482,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Every cloud has a silver lining: DeepSeek’s light through acute respiratory distress syndrome shadows",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "这篇社论讨论DeepSeek等大语言模型在急性呼吸窘迫综合征中的潜在研究用途，包括辅助诊断、患者表型划分、机械通气个体化、免疫治疗选择及预后分析。作者设想整合病历、呼吸机参数与生物标志物，以支持更细化的临床决策，同时指出数据质量、可解释性、偏差和工作流整合等障碍，强调从观察研究走向前瞻验证与试验。文章没有独立摘要，也未报告验证DeepSeek临床疗效的新试验。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "article_overview"
     },
     {
       "type": "论文",
@@ -1410,13 +1544,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2025,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/recent-sources/faculty-j16-2025.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_introduction",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j16-2025,\n  title = {Hybrid model of multimodal based on data enhancement and lumped reaction kinetics: Applying to industrial ebullated-bed residue hydrogenation unit},\n  author = {Jian Long and Mengru Zhang and Anlan Li and Cheng Huang and Dong Xue},\n  year = {2025},\n  doi = {10.1016/j.cjche.2024.10.019},\n  url = {https://doi.org/10.1016/j.cjche.2024.10.019}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.cjche.2024.10.019",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/abs/pii/S1004954124003781",
+      "abstractSource": "publisher_abstract_and_introduction",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1424,10 +1564,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Hybrid model of multimodal based on data enhancement and lumped reaction kinetics: Applying to industrial ebullated-bed residue hydrogenation unit",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究针对工业沸腾床渣油加氢装置物性检测稀疏、运行模式多变导致的产品收率预测困难，结合数据增强和反应机理建立混合模型。GAN-LS方法通过生成对抗网络、异常剔除及L2范数筛选扩充数据，利用核主成分分析与模糊C均值划分工况，再构建十一集总反应动力学子模型。工业数据验证表明，相较增强前的单一模型，所提分工况建模策略降低了平均绝对误差，为生产操作和优化提供预测依据。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1614,13 +1757,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2024,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/publisher-web-evidence.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract_and_conclusions",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j14-2024,\n  title = {Time series modeling and forecasting of epidemic spreading processes using deep transfer learning},\n  author = {Dong Xue and Ming Wang and Fangzhou Liu and Martin Buss},\n  year = {2024},\n  doi = {10.1016/j.chaos.2024.115092},\n  url = {https://doi.org/10.1016/j.chaos.2024.115092}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1016/j.chaos.2024.115092",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://www.sciencedirect.com/science/article/pii/S0960077924006441",
+      "abstractSource": "publisher_abstract_and_conclusions",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1628,10 +1777,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Time series modeling and forecasting of epidemic spreading processes using deep transfer learning",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究针对不同阶段、地区和病毒之间存在分布差异的疫情时间序列，提出结合卷积网络、双向长短期记忆网络与迁移学习的预测框架。卷积层提取局部特征，双向时序层学习序列关联，全连接层输出预测，训练时利用粒子群算法选择超参数。论文以新冠时空传播数据及 SARS、H1N1 等疫情研究迁移效果。结果显示该方法能够降低部分建模和预测误差，但结论也指出：目标阶段数据不足或迁移时间间隔较大时，负迁移仍会限制表现。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1746,13 +1898,19 @@ window.LAB_CONTENT = {
           "evidence": "LIU Fengfeng, XUE Dong. Distributed Optimal Power Flow Analysis of Active Distribution Networks Based on Intelligent Partition Strategy[J]. Journal of East China University of Science and Technology, 2024, 50(4): 550-559. DOI: 10.14135/j.cnki.1006-3080.20230323006",
           "accessNote": "Verified against the search-indexed original journal article page. Direct open returned a Security Verification screen; no CAPTCHA bypass was attempted."
         },
-        "previousCrossrefStatus": "Crossref returned 404; publisher supports this DOI and citation."
+        "previousCrossrefStatus": "Crossref returned 404; publisher supports this DOI and citation.",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/publisher-web-evidence.json",
+          "kind": "summary",
+          "sourceKind": "publisher_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@article{faculty-j12-2024,\n  title = {Distributed Optimal Power Flow Analysis of Active Distribution Networks Based on Intelligent Partition Strategy},\n  author = {Fengfeng Liu and Dong Xue},\n  year = {2024},\n  doi = {10.14135/j.cnki.1006-3080.20230323006},\n  url = {https://doi.org/10.14135/j.cnki.1006-3080.20230323006}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.14135/j.cnki.1006-3080.20230323006",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://journal.ecust.edu.cn/en/article/doi/10.14135/j.cnki.1006-3080.20230323006?viewType=HTML",
+      "abstractSource": "publisher_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1760,10 +1918,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Distributed Optimal Power Flow Analysis of Active Distribution Networks Based on Intelligent Partition Strategy",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "面向分布式能源接入后主动配电网最优潮流计算规模大、耗时长的问题，论文结合网络分区与分布式优化。方法利用量测数据选择分区，改善交替方向乘子法的收敛；在区域接口通过一致性协调平衡关系，减少对全局信息的依赖，并采用 LinDistFlow 交流潮流近似处理原问题的非凸性。不同规模 IEEE 配电网算例用于检验方法，与其他分区方案比较优化误差和计算时间。结果支持量测驱动分区对分布式潮流求解效率的改善。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1822,13 +1983,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2022,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c10-2022-openalex.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c10-2022,\n  title = {A GUI-based Low-Code Development Platform for Power Systems Analysis},\n  author = {Xuanrong Zhong and Xinyi Zhou and Yang Xia and Guibao Bai and Juyue Dong and Dong Xue},\n  year = {2022},\n  doi = {10.1109/CAC57257.2022.10055210},\n  url = {https://doi.org/10.1109/CAC57257.2022.10055210}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CAC57257.2022.10055210",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/https://doi.org/10.1109/CAC57257.2022.10055210",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1836,10 +2003,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "A GUI-based Low-Code Development Platform for Power Systems Analysis",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "针对电力系统仿真分析工具在成本、扩展性或交互界面方面的不足，论文介绍面向建模与分析的图形化低代码平台，尤其考虑可再生能源广泛接入的需求。平台把常用操作组织为可拖放组件，在支持用户界面交互的同时保留灵活扩展能力，减少应用开发所需的编程工作。通过通信协议与程序接口，平台能够连接外部数据源并调用其他开源库。研究强调降低开发成本、缩短开发周期及改善工具集成的设计思路，以支持设计、规划和运行等不同阶段的电力系统分析工作。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -1897,24 +2067,34 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2021,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c9-2021.html",
+          "kind": "original",
+          "sourceKind": "arxiv_metadata",
+          "version": "preprint"
+        }
       },
       "topicKey": "social",
       "bibtex": "@inproceedings{faculty-c9-2021,\n  title = {Distributed Link Removal Strategy for Networked Meta-Population Epidemics and Its Application to the Control of the COVID-19 Pandemic},\n  author = {Fangzhou Liu and Yuhong Chen and Tong Liu and Dong Xue and Martin Buss},\n  year = {2021},\n  doi = {10.1109/CDC45484.2021.9683314},\n  url = {https://doi.org/10.1109/CDC45484.2021.9683314}\n}",
-      "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CDC45484.2021.9683314",
-      "abstractSource": "Original article landing page",
+      "abstractOriginal": "In this paper, we investigate the distributed link removal strategy for networked meta-population epidemics. In particular, a deterministic networked susceptible-infected-recovered (SIR) model is considered to describe the epidemic evolving process. In order to curb the spread of epidemics, we present the spectrum-based optimization problem involving the Perron-Frobenius eigenvalue of the matrix constructed by the network topology and transition rates. A modified distributed link removal strategy is developed such that it can be applied to the SIR model with heterogeneous transition rates on weighted digraphs. The proposed approach is implemented to control the COVID-19 pandemic by using the reported infected and recovered data in each state of Germany. The numerical experiment shows that the infected percentage can be significantly reduced by using the distributed link removal strategy.",
+      "abstractURL": "https://arxiv.org/abs/2006.16221v1",
+      "abstractSource": "arxiv_metadata",
       "abstractLanguage": "en",
-      "abstractVersion": "version_of_record",
+      "abstractVersion": "preprint",
       "abstractLicense": {
-        "name": "Not verified",
-        "url": "",
-        "allowsFullReuse": false
+        "name": "CC0 1.0 Universal (arXiv metadata only)",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "allowsFullReuse": true,
+        "scope": "Title, authors and abstract metadata; does not license the paper PDF",
+        "evidenceURL": "https://info.arxiv.org/help/policies/submission_agreement.html#metadata-license",
+        "evidenceFile": "work/faculty-v9/sources/arxiv-submission-policy.html"
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "full_original",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Distributed Link Removal Strategy for Networked Meta-Population Epidemics and Its Application to the Control of the COVID-19 Pandemic",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractVersionLabel": "arXiv:2006.16221v1"
     },
     {
       "type": "论文",
@@ -1970,13 +2150,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2020,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-j9-2020.pdf",
+          "kind": "summary",
+          "sourceKind": "author_institution_repository_published_article",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j9-2020,\n  title = {Opinion Behavior Analysis in Social Networks Under the Influence of Coopetitive Media},\n  author = {Dong Xue and Sandra Hirche and Ming Cao},\n  year = {2020},\n  doi = {10.1109/TNSE.2019.2894565},\n  url = {https://doi.org/10.1109/TNSE.2019.2894565}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/TNSE.2019.2894565",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://pure.rug.nl/ws/portalfiles/portal/132962995/08621021.pdf",
+      "abstractSource": "author_institution_repository_published_article",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -1984,10 +2170,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Opinion Behavior Analysis in Social Networks Under the Influence of Coopetitive Media",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文同时考虑人际交流和媒体接触对观点形成的作用，将媒体之间的合作与竞争、社会群体结构及个体偏好纳入统一动力学模型。作者采用端口哈密顿系统表述观点演化，并利用个体动力学的无源性分析长期收敛行为。研究讨论公众观点在何种条件下趋向一致、分化为对立阵营或走向中性，也考察媒体联盟可能形成不受公众观点左右的主导状态。该工作提供的是社会影响机制的数学刻画与控制分析，并非对现实群体行为的普遍经验定律。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2044,13 +2233,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2020,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-c8-2020.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c8-2020,\n  title = {Adaptive optimal output regulation for industrial hydrocracking process},\n  author = {Zhongmei Li and Mengzhe Huang and Dong Xue and Wenli Du},\n  year = {2020},\n  doi = {10.1109/CAC51589.2020.9327748},\n  url = {https://doi.org/10.1109/CAC51589.2020.9327748}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CAC51589.2020.9327748",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1109/CAC51589.2020.9327748",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2058,10 +2253,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Adaptive optimal output regulation for industrial hydrocracking process",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究针对工业加氢裂化过程中反应器温度影响产品分布与质量的问题，将温度控制表述为输出调节任务，结合强化学习、自适应动态规划和输出调节理论，构建数据驱动的最优控制方法。方法通过策略迭代求取自适应最优控制器。仿真结果表明，R101反应器出口物流的氮含量可调节到目标值，各床层反应温度保持较低水平，同时能够抑制扰动。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2121,13 +2319,19 @@ window.LAB_CONTENT = {
           ]
         },
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/faculty-v8/crossref/j8.json",
+          "kind": "summary",
+          "sourceKind": "publisher_deposited_crossref_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j8-2019,\n  title = {Finite‐time distributed topology design for optimal network resilience},\n  author = {Dong Xue and Sandra Hirche},\n  year = {2019},\n  doi = {10.1049/iet-cta.2018.6117},\n  url = {https://doi.org/10.1049/iet-cta.2018.6117}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://doi.org/10.1049/iet-cta.2018.6117",
-      "abstractSource": "Crossref-deposited original abstract",
+      "abstractSource": "publisher_deposited_crossref_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2135,10 +2339,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Finite‐time distributed topology design for optimal network resilience",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究针对依赖完整拓扑信息的网络韧性优化方法，提出只使用局部可获得信息逐步增加或重连网络边的分布式策略。算法以矩阵扰动近似评估候选操作，并通过分布式计算图矩阵的特征值和特征向量支持决策。为避免估计过程无限迭代，作者设计与期望精度关联的分布式停止准则，使一次连接操作能够在有限时间内完成。论文用数值案例展示方法的有效性，其有限时间性质针对计算与操作过程，不意味着任意网络都达到全局最优结构。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2200,13 +2407,19 @@ window.LAB_CONTENT = {
           ]
         },
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/faculty-v8/crossref/j7.json",
+          "kind": "summary",
+          "sourceKind": "publisher_deposited_crossref_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@article{faculty-j7-2019,\n  title = {Distributed multi‐vehicle task assignment in a time‐invariant drift field with obstacles},\n  author = {Xiaoshan Bai and Weisheng Yan and Ming Cao and Dong Xue},\n  year = {2019},\n  doi = {10.1049/iet-cta.2018.6125},\n  url = {https://doi.org/10.1049/iet-cta.2018.6125}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://doi.org/10.1049/iet-cta.2018.6125",
-      "abstractSource": "Crossref-deposited original abstract",
+      "abstractSource": "publisher_deposited_crossref_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2214,10 +2427,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Distributed multi‐vehicle task assignment in a time‐invariant drift field with obstacles",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文研究具有不同能力的多辆载体在固定漂移场和障碍环境中访问多目标的问题，同一目标可要求不同类型载体多次到访，目标是降低总航行时间。首先设计兼顾漂移与避障的两点间时间最优路径规划，生成任务分配所需代价矩阵；随后通过局部通信完成分布式目标分配。作者证明该组合任务具有计算困难性，并给出对称代价矩阵条件下总时间不超过最优值两倍的界。仿真显示方案能够得到接近最优的解，但该性能界有明确适用条件。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2272,13 +2488,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2019,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/liu-thesis.pdf",
+          "kind": "summary",
+          "sourceKind": "author_thesis_matching_published_article",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@article{faculty-j6-2019,\n  title = {Polarizability, Consensusability, and Neutralizability of Opinion Dynamics on Coopetitive Networks},\n  author = {Fangzhou Liu and Dong Xue and Sandra Hirche and Martin Buss},\n  year = {2019},\n  doi = {10.1109/TAC.2018.2879599},\n  url = {https://doi.org/10.1109/TAC.2018.2879599}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/TAC.2018.2879599",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://mediatum.ub.tum.de/doc/1471265/594688.pdf",
+      "abstractSource": "author_thesis_matching_published_article",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2286,10 +2508,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Polarizability, Consensusability, and Neutralizability of Opinion Dynamics on Coopetitive Networks",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究在设计具体观点协议之前，先判断合作与竞争并存的网络能否通过允许的分布式规则实现两极分化、一致或中性。作者从个体动力学与有符号交互结构的共同作用出发，用谱分析和代数图论给出相应可实现性的充分或必要条件，并在模一致性的统一概念下说明几类结果的联系。研究进一步推广到个体动力学不相同的异构群体，分析多样性如何影响可达的集体状态。这将目标状态的可实现性与具体协议选择区分开，为控制设计提供可检验的结构条件。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "article_overview"
     },
     {
       "type": "论文",
@@ -2387,13 +2612,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2017,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-c7-2017.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@inproceedings{faculty-c7-2017,\n  title = {Heterogeneous multi-vehicle task assignment in a time-invariant drift field with obstacles},\n  author = {Xiaoshan Bai and Weisheng Yan and Ming Cao and Dong Xue},\n  year = {2017},\n  doi = {10.1109/CDC.2017.8263683},\n  url = {https://doi.org/10.1109/CDC.2017.8263683}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CDC.2017.8263683",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1109/CDC.2017.8263683",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2401,10 +2632,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Heterogeneous multi-vehicle task assignment in a time-invariant drift field with obstacles",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文研究不同能力的分散载体如何在固定漂移场与障碍环境中访问一组目标，并尽量减少总航行时间。不同类型载体负责不同目标需求，同一位置也可能要求由多类载体分别到访。方法先求单个载体在两个位置间兼顾漂移和避障的时间最优路径，据此建立任务分配代价矩阵；再以基于拍卖的分布式算法，通过局部通信决定目标分配并生成路线。数值仿真显示该方案能在所测场景中获得接近最优的结果，重点是把环境约束下的路径代价与多类型目标需求结合起来。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2456,13 +2690,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2016,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c6-2016-openalex.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c6-2016,\n  title = {Conservation-dissipation structure of linear stochastic systems},\n  author = {Dong Xue},\n  year = {2016},\n  doi = {10.1109/CDC.2016.7799187},\n  url = {https://doi.org/10.1109/CDC.2016.7799187}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CDC.2016.7799187",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/https://doi.org/10.1109/CDC.2016.7799187",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2470,10 +2710,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Conservation-dissipation structure of linear stochastic systems",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文研究受白噪声驱动的线性随机系统，用统一框架描述守恒—耗散结构及相应的平衡关系。方法从具有解析表达的 Fokker–Planck 算子出发，通过算子分解识别不同动力学分量，并利用结构条件把这些分量与稳态平衡和稳态非平衡状态联系起来。作者进一步讨论概率环流不平衡时的能量流与熵流，将系统耗散性与熵产生、热耗散及功提取相联系。该框架从随机动力系统角度刻画热力学第一、第二定律，为分析非平衡过程中的能量交换提供数学工具。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2498,13 +2741,19 @@ window.LAB_CONTENT = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1109%2FCHICC.2016.7554843",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-c5-2016.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "health",
       "bibtex": "@inproceedings{faculty-c5-2016,\n  title = {An operator-theoretic approach to synchronization of dynamically coupled biological rhythms},\n  author = {L. Zhao and Dong Xue},\n  year = {2016},\n  doi = {10.1109/CHICC.2016.7554843},\n  url = {https://doi.org/10.1109/CHICC.2016.7554843}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/CHICC.2016.7554843",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1109/CHICC.2016.7554843",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2512,10 +2761,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "An operator-theoretic approach to synchronization of dynamically coupled biological rhythms",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文从算子理论角度研究生物节律网络的同步机制。模型把细胞等单元表示为由异质子系统组成的结构，例如通过内部信号相互连接的反应通路；不同单元再借助共同介质发生耦合。作者将单元的输入输出性质与网络连接结构结合，建立同步条件，并进一步给出适用于状态空间模型的同步判据。研究以基因开关网络和 repressilator 振荡网络展示理论的生化应用，重点是分析局部输入输出特性、单元内部异质性与整体耦合如何共同决定同步条件。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2538,13 +2790,19 @@ window.LAB_CONTENT = {
         "level": "official_faculty_page",
         "metadataStatus": "no_doi_in_official_record",
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
-        "status": "official_source_only"
+        "status": "official_source_only",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c4-2014.pdf",
+          "kind": "summary",
+          "sourceKind": "author_repository_conference_manuscript",
+          "version": "published"
+        }
       },
       "topicKey": "social",
       "bibtex": "@inproceedings{faculty-c4-2014,\n  title = {A Distributed Strategy for Near-Optimal Network Topology Design},\n  author = {Dong Xue and A. Gusrialdi and S. Hirche},\n  year = {2014},\n  doi = {},\n  url = {https://faculty.ecnu.edu.cn/_s9/xd2/main.psp}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://mediatum.ub.tum.de/doc/1225318/document.pdf",
+      "abstractSource": "author_repository_conference_manuscript",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2552,10 +2810,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "A Distributed Strategy for Near-Optimal Network Topology Design",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文把提高网络连通性表述为逐步向现有图增加连接、提升拉普拉斯矩阵代数连通度的图过程。面对难以直接求解的组合优化，作者提出基于 Fiedler 特征向量分量的局部启发式选择准则，近似评估候选边的作用。为使节点不依赖集中收集的全网信息，研究进一步构建分散估计算法，使各节点获得决策所需的特征向量知识，并分析估计的收敛及收敛速度。数值例子验证了整体策略；其结果是分布式近优设计，而非一般意义上的精确最优解。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2691,13 +2952,19 @@ window.LAB_CONTENT = {
           ]
         },
         "crossrefYear": 2013,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/faculty-v8/crossref/j2.json",
+          "kind": "summary",
+          "sourceKind": "publisher_deposited_crossref_abstract",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@article{faculty-j2-2013,\n  title = {Formation control of multi‐agent systems with stochastic switching topology and time‐varying communication delays},\n  author = {Dong Xue and Jing Yao and Jun Wang and Yafeng Guo and Xu Han},\n  year = {2013},\n  doi = {10.1049/iet-cta.2011.0325},\n  url = {https://doi.org/10.1049/iet-cta.2011.0325}\n}",
       "abstractOriginal": "",
       "abstractURL": "https://doi.org/10.1049/iet-cta.2011.0325",
-      "abstractSource": "Crossref-deposited original abstract",
+      "abstractSource": "publisher_deposited_crossref_abstract",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2705,10 +2972,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Formation control of multi‐agent systems with stochastic switching topology and time‐varying communication delays",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文研究通信拓扑随机切换、信息传输存在时变延迟时，多智能体系统如何保持规定队形。模型允许单个智能体的非线性动力学随模式改变，通信图在由有限状态马尔可夫过程控制的若干结构之间切换，以反映实际行进路径和通信条件的变化。作者利用人工势函数构造一般形式的编队控制器，再结合李雅普诺夫泛函与线性矩阵不等式，给出随机编队稳定性的充分条件。文中讨论控制器的启发式设计及具体势函数，并以仿真验证方法。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2761,13 +3031,19 @@ window.LAB_CONTENT = {
         },
         "crossrefPublishedOnline": {},
         "crossrefYear": 2013,
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c3-2013.pdf",
+          "kind": "summary",
+          "sourceKind": "author_institution_publication_record",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@inproceedings{faculty-c3-2013,\n  title = {Event-triggered consensus of heterogeneous multi-agent systems with double-integrator dynamics},\n  author = {Dong Xue and Sandra Hirche},\n  year = {2013},\n  doi = {10.23919/ECC.2013.6669693},\n  url = {https://doi.org/10.23919/ECC.2013.6669693}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.23919/ECC.2013.6669693",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://portal.fis.tum.de/en/publications/event-triggered-consensus-of-heterogeneous-multi-agent-systems-wi/",
+      "abstractSource": "author_institution_publication_record",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2775,10 +3051,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Event-triggered consensus of heterogeneous multi-agent systems with double-integrator dynamics",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "研究面向双积分动力学的多智能体二阶一致性问题，用事件触发更新替代持续或固定周期的控制更新。作者首先分析位置和速度信息采用不同通信图时的一致性拓扑条件，再分别讨论集中式与分布式事件触发协议。在所给条件下，调度规则使群体以指数速度实现一致；同时推导相邻触发时刻之间的正下界，排除有限时间内无限次触发的 Zeno 现象。论文还通过数值仿真检验控制策略，说明异构信息结构与按需更新可以共同纳入一致性设计。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2803,13 +3082,19 @@ window.LAB_CONTENT = {
         "authorContributionMarks": "* denotes corresponding author; # denotes shared first author, per official page",
         "metadataUrl": "https://api.crossref.org/works/10.1109%2FACC.2013.6580865",
         "status": "official_source_only",
-        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests"
+        "requestNote": "HTTPError: HTTP Error 429: Too Many Requests",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/faculty-c2-2013.pdf",
+          "kind": "summary",
+          "sourceKind": "coauthor_institution_publication_record",
+          "version": "published"
+        }
       },
       "topicKey": "engineering",
       "bibtex": "@inproceedings{faculty-c2-2013,\n  title = {Robust distributed control design for interconnected systems under topology uncertainty},\n  author = {Dong Xue and A. Gusrialdi and S. Hirche},\n  year = {2013},\n  doi = {10.1109/ACC.2013.6580865},\n  url = {https://doi.org/10.1109/ACC.2013.6580865}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1109/ACC.2013.6580865",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://stars.library.ucf.edu/scopus2010/6240/",
+      "abstractSource": "coauthor_institution_publication_record",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2817,10 +3102,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Robust distributed control design for interconnected systems under topology uncertainty",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文联合设计大规模互联系统的分布式控制律与通信结构，同时考虑拓扑变化下的鲁棒性、整体性能和通信代价。第一步先寻找在拓扑不确定性下仍稳定、具有 H∞ 鲁棒性能的一组控制律；第二步在这一可行集合内选择通信拓扑，以 H2 指标进一步改善性能，并纳入增加通信的成本权衡。为处理已有系统的拓扑变化，作者还提出调整现有连接的计算策略，降低重新设计的复杂度。文中用实例说明两阶段设计方法，而非声称任意通信结构变化都不会影响控制效果。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -2876,13 +3164,19 @@ window.LAB_CONTENT = {
         "crossrefPublishedOnline": {},
         "crossrefYear": 2010,
         "normalizationNote": "Matched after removing publisher MathML or accepting D. Xue author initials together with the explicit official faculty listing.",
-        "status": "metadata_verified"
+        "status": "metadata_verified",
+        "abstractEvidence": {
+          "file": "work/v11-abstracts/older-sources/verified-openalex-faculty-j1-2010.json",
+          "kind": "summary",
+          "sourceKind": "openalex_indexed_original_abstract_publisher_metadata_matched",
+          "version": "published"
+        }
       },
       "topicKey": "embodied",
       "bibtex": "@article{faculty-j1-2010,\n  title = {Formation control of networked multi-agent systems},\n  author = {D. Xue and J. Yao and G. Chen and Y.-L. Yu},\n  year = {2010},\n  doi = {10.1049/iet-cta.2009.0574},\n  url = {https://doi.org/10.1049/iet-cta.2009.0574}\n}",
       "abstractOriginal": "",
-      "abstractURL": "https://doi.org/10.1049/iet-cta.2009.0574",
-      "abstractSource": "Original article landing page",
+      "abstractURL": "https://api.openalex.org/works/doi:10.1049/iet-cta.2009.0574",
+      "abstractSource": "openalex_indexed_original_abstract_publisher_metadata_matched",
       "abstractLanguage": "en",
       "abstractVersion": "version_of_record",
       "abstractLicense": {
@@ -2890,10 +3184,13 @@ window.LAB_CONTENT = {
         "url": "",
         "allowsFullReuse": false
       },
-      "abstractReuse": "link_only",
-      "abstractRetrievedAt": "2026-11-20T11:00:52.149430+00:00",
+      "abstractReuse": "paraphrased_overview",
+      "abstractRetrievedAt": "2026-11-21T11:27:20.191690+00:00",
       "shortTitle": "Formation control of networked multi-agent systems",
-      "homeBrief": ""
+      "homeBrief": "",
+      "abstractSummary": "论文以网络化动态智能体的一致性与编队控制为对象，考察非线性动力学和切换耦合拓扑带来的协调困难。研究提出基于人工势函数的分散式编队策略，并在控制器中引入专门函数，处理人工势场局部极小值可能造成的困难。作者用相对位置定义编队稳定性，再结合李雅普诺夫分析与扩展线性矩阵不等式方法，给出队形稳定的条件。文中的具体仿真算例验证了所构造控制器的效果，为分散交互条件下的编队问题提供系统化建模与分析框架。",
+      "abstractSummaryLanguage": "zh-CN",
+      "abstractSummaryKind": "abstract_overview"
     },
     {
       "type": "论文",
@@ -4056,27 +4353,6 @@ window.LAB_CONTENT = {
         "https://github.com/X-D-Lab/PUA/blob/main/README.md"
       ],
       "upstream": []
-    },
-    {
-      "id": "frxxx",
-      "name": "FrXXX",
-      "chineseName": "",
-      "group": "unconfirmed",
-      "label": "产品资料整理中",
-      "description": "",
-      "detail": "",
-      "features": [],
-      "visualKey": "future",
-      "tone": "neutral",
-      "status": "资料整理中",
-      "codeAvailable": false,
-      "descriptionAvailable": false,
-      "repository": "",
-      "repoURL": "",
-      "url": "",
-      "license": null,
-      "source": [],
-      "upstream": []
     }
   ],
   "people": [
@@ -4415,24 +4691,42 @@ window.LAB_CONTENT = {
   ],
   "openings": [
     {
-      "id": "graduate",
-      "title": "硕士生与博士生",
-      "description": "围绕明确的科学问题或实际需求，参与文献研读、建模、算法开发、实验验证与论文写作。欢迎对方法创新、场景应用和跨学科研究有兴趣的同学。"
-    },
-    {
       "id": "postdoc",
       "title": "博士后",
-      "description": "围绕实验室方向开展相对独立的研究，组织实验与成果发表，参与项目申请和合作，并协助指导学生。具体任务可结合专业特长共同讨论。"
+      "quota": "每年拟招 1—2 人",
+      "term": "聘期一般为 2 年",
+      "description": "围绕实验室方向开展相对独立的研究，参与论文发表、项目申请与合作研究。",
+      "requirements": "已获得或即将获得相关博士学位，获学位时间一般不超过3年，年龄一般为35岁以下，能够全职在站工作；具体以学校当期招收及特殊情形审核规定为准。",
+      "support": "支持申请科研基金与学术交流；按规定缴纳社保和公积金，住房按规定申请。",
+      "tiers": [
+        {
+          "name": "A类",
+          "requirements": "以第一作者身份已发表 SSCI、SCI 或国内权威 A 类期刊论文不少于2篇。",
+          "salary": "27万元",
+          "minimumYuan": 270000
+        },
+        {
+          "name": "B类",
+          "requirements": "以第一作者身份已发表 SSCI、SCI 或国内权威 A 类期刊论文不少于1篇。",
+          "salary": "16万元",
+          "minimumYuan": 160000
+        },
+        {
+          "name": "卓越博士后",
+          "requirements": "博士毕业学校或学科世界排名（QS、THE、US News）前100、相应论文不少于3篇等条件，经学校评审确定。",
+          "salary": "40万元",
+          "minimumYuan": 400000
+        }
+      ]
     },
     {
       "id": "research-assistant",
       "title": "科研助理",
-      "description": "参与数据分析、模型训练、算法实现、软件或硬件研发、实验实施与平台维护。具体分工结合个人能力和项目任务确定。"
-    },
-    {
-      "id": "undergraduate-intern",
-      "title": "本科生与科研实习生",
-      "description": "从文献调研、数据分析、实验协助、算法复现、软件开发或交互原型入手，逐步参与完整研究任务。申请时请说明希望参与的课题与可投入时间。"
+      "quota": "每年拟招 3—4 人",
+      "term": "人数、任务及聘期结合项目安排确定",
+      "description": "参与数据分析、模型训练、软件或硬件研发、实验实施与项目支持。",
+      "requirements": "相关专业本科及以上学历，具备研究、实验或技术开发基础，责任心强，能够按安排到岗；具体资格以获批岗位要求为准。",
+      "employment": "拟按学校规定采用二级人事代理方式聘用，薪酬福利面议，具体以岗位审批及聘用约定为准。"
     }
   ],
   "facilities": [
@@ -4498,20 +4792,35 @@ window.LAB_CONTENT = {
     "checkedAt": "2026-11-20"
   },
   "join": {
-    "intro": "欢迎硕士生、博士生、博士后、科研助理，以及本科生与科研实习生围绕实验室方向开展交叉研究。",
-    "backgrounds": "欢迎心理与认知科学、数学与系统科学、计算与工程技术、医学与生命健康等领域的申请者，也欢迎跨领域研究或产业研发经历。",
-    "method": "请通过邮件提交申请类别、个人简历、研究兴趣与代表性材料，并说明预计开始参与的时间。",
+    "intro": "华东师范大学认知智能与具身交互实验室面向海内外长期招聘全职博士后和科研助理，共同开展人工智能与认知科学交叉研究，参与具身交互与智能系统研发及应用验证。",
+    "location": "工作地点为上海，具体校区及到岗安排结合岗位任务协商确定。",
+    "backgrounds": "欢迎计算机科学与技术、人工智能、数学、统计学、心理学、认知科学、神经科学、控制科学与工程、机器人工程、生物医学工程、医学、生物信息学等专业，以及具有相关研究、实验或工程开发经验的跨学科申请者。",
+    "labOverview": "实验室依托华东师范大学心理与认知科学学院、智能交互学院，融合人工智能、心理学、计算机科学、复杂系统、控制理论与系统工程，以认知建模、分析与调控为理论主线，以智能学习与协同决策为方法支撑，以具身交互和真实场景为验证载体，探索类脑学习、世界模型与可信智能等前沿方法。",
+    "topics": [
+      "融合情感认知的具身世界模型与群体协同决策",
+      "多模态与跨组学融合的疾病风险预测与持续学习",
+      "脑网络与认知行为耦合建模及心理健康评估",
+      "认知机制约束的生成式社会仿真与群体行为演化",
+      "社会信息物理融合的工业智能体与人机协同优化"
+    ],
+    "impact": "实验室坚持基础研究与工程实践并重，面向数字社会治理、医疗健康服务、应急管理与救援、智能制造、智慧家居、能源电力、智能交通和智慧教育等需求，发展可解释、可适应、可协同的智能方法与应用系统，培养兼具认知理解、智能计算与工程实现能力的交叉人才。",
+    "mentorSummary": "薛栋，华东师范大学心理与认知科学学院人工智能与人因工程系教授、博士生导师，德国慕尼黑工业大学工学博士。研究围绕人工智能与系统科学驱动的社会认知、情感计算、健康医疗、具身交互和智能制造，以第一作者或通讯作者发表论文50余篇、出版专著10余本，推进 MindChat、Sunsimiao、GradChat 等垂直领域模型的研究与应用。",
+    "method": "请将申请材料发送至以下邮箱，并注明应聘岗位与预计到岗时间。",
     "contactPerson": "薛栋教授",
     "email": "dxue@psy.ecnu.edu.cn",
-    "subject": "CIEI Lab申请＋申请类别＋姓名＋学校或单位",
+    "subject": "CIEI Lab申请＋博士后／科研助理＋姓名＋学校或单位",
     "materials": [
-      "个人简历：教育经历、研究经历与技能",
-      "研究兴趣：希望研究的问题及已有准备",
-      "代表性材料：论文、报告、代码或作品",
-      "参与安排：开始时间与每周可投入时间"
+      "个人简历",
+      "申请岗位及研究兴趣说明",
+      "代表性论文或项目作品",
+      "预计到岗时间",
+      "博士后另附：简要研究设想与拟申请类别"
     ],
-    "processNote": "研究生报名与录取、博士后及科研助理聘用按学校正式流程办理；具体参与安排结合研究方向、项目需要和指导条件确定。",
-    "source": "https://faculty.ecnu.edu.cn/_s9/xd2/main.psp"
+    "processNote": "类别、待遇和聘期以学校审核及聘用协议为准；科研绩效及导师补贴按政策和书面约定执行。",
+    "source": {
+      "kind": "user_provided_recruitment_notice",
+      "receivedOn": "2026-11-21"
+    }
   },
   "presentation": {
     "homePapers": [
